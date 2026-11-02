@@ -98,3 +98,4 @@ def ensuciar(datos_df):
     datos_df.loc[filas_elegidas,"activo"]=datos_df.loc[filas_elegidas,"activo"].map(convertir_booleano_texto)
 
     #devuelvo la tabla ya sucia
+    return datos_df
