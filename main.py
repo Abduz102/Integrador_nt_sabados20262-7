@@ -29,3 +29,20 @@ print("************ EXPORTACIONES DE USUARIO LIMPIOS ************")
 rutas_limpias=exportar_usuarios_limpios(usuarios_limpios_df)
 for ruta in rutas_limpias:
     print("Limpio:",ruta)
+
+
+# ============================================================
+#                      TABLA RETOS
+# ============================================================
+from notebook.exportaciones.exportar_reto import exportar_retos_sucios
+from notebook.limpiezas.limpiar_reto import main as limpiar_retos
+from notebook.consultas.consultas_reto import main as consultas_retos
+
+print("\n************ EXPORTACIONES DE RETO (SUCIOS) ************")
+exportar_retos_sucios()
+
+print("\n************ LIMPIEZA DE RETO ************")
+limpiar_retos()
+
+print("\n************ CONSULTAS DE RETO ************")
+consultas_retos()
