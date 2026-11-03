@@ -6,6 +6,10 @@ from notebook.exportaciones.exportar_usuario import exportar_usuarios_crudos, ex
 
 from notebook.limpiezas.limpiar_usuario import limpiar_usuarios, resumen_nulos
 
+# ============================================================
+#                      TABLA USUARIO
+# ============================================================
+
 #1. Activando la simulacion
 print("************ SIMULACIONES DE USUARIO ************")
 usuarios_df=pd.DataFrame(generar_datos_limpios())
@@ -36,7 +40,7 @@ for ruta in rutas_limpias:
 # ============================================================
 from notebook.exportaciones.exportar_reto import exportar_retos_sucios
 from notebook.limpiezas.limpiar_reto import main as limpiar_retos
-from notebook.consultas.consultas_reto import main as consultas_retos
+
 
 print("\n************ EXPORTACIONES DE RETO (SUCIOS) ************")
 exportar_retos_sucios()
@@ -44,8 +48,7 @@ exportar_retos_sucios()
 print("\n************ LIMPIEZA DE RETO ************")
 limpiar_retos()
 
-print("\n************ CONSULTAS DE RETO ************")
-consultas_retos()
+
 
 # ============================================================
 #                      TABLA EMPRESAS
@@ -107,3 +110,25 @@ print("************ EXPORTACIONES DE CATEGORIA LIMPIAS ************")
 rutas_limpias=exportar_categorias_limpias(categorias_limpias_df)
 for ruta in rutas_limpias:
     print("Limpio:",ruta)
+
+
+# ==================================================================================
+#                      CONSULTAS ( RETOS, USUARIO, EMPRESA, CATEGORIA)
+# ==================================================================================
+from notebook.consultas.consultas_reto import main as consultas_retos
+from notebook.consultas.consultas_usuario import main as consultas_usuario
+from notebook.consultas.consultas_empresa import main as consultas_empresa
+from notebook.consultas.consultas_categoria import main as consultas_categoria
+
+
+print("\n************ CONSULTAS DE RETO ************")
+consultas_retos()
+
+print("\n************ CONSULTAS DE USUARIO ************")
+consultas_usuario()
+
+print("\n************ CONSULTAS DE EMPRESA ************")
+consultas_empresa()
+
+print("\n************ CONSULTAS DE CATEGORIA ************")
+consultas_categoria()

@@ -1,0 +1,43 @@
+﻿id;nombre;nit;sector;contacto;correo;telefono;activa
+ed12521c-c232-4563-91a0-24a382db0cd4;Uribe, González and Moreno;6391025743;;;vmena@example.org;3050864035;True
+182d4e85-a62f-4ae7-8be1-22e4e3a471f0;Quintero, Torres And Escobar;9156686334;Turismo;;mauriciogonzalez@example.com;6094569040;False
+c2081e52-99f7-4167-97e4-864ba319a776;Caro-Vargas;8144744309;;Alberto Suárez Saavedra;;6062509754;False
+655aca38-1992-4576-8bb5-2fc9d512a91c;Romero Ltd;2650167318;Transporte;Adriana Barreto Rodríguez;;3162841772;True
+3073eb8c-c87c-4f89-948a-bbd98abba42d;Romero Group;0531340266;;;rolaya@example.org;3278725686;False
+6e66b36e-9a71-4aab-9dd3-9c63189b65f7;González-Salgado;1092268592;Salud;Carlos Soto Suárez;;3141022526;False
+462c482a-d135-4043-a3ff-42d716dd1e37;Núñez, Correa and Camargo;7041200928;;;qcortes@example.net;3243624186;False
+aeb509ff-7cb6-4844-9d4c-79b12a3efa5f;Serna-Herrera;5960633991;Manufactura;;sanchezalfredo@example.net;3717524;True
+56422323-4329-45b9-8e1d-91fab64b3a10;Vásquez, Pérez and Rivera;5339055044;;Judith Camila Cárdenas;;3251276528;False
+c86275a1-d766-4e50-b677-9b1ec5dcb057;Pérez, Mejía And Gutiérrez;6491111096;Salud;;barrerajose@example.org;3163378613;True
+93ccabc7-10c4-43a3-a2a1-58cd1f6aa7bb;Durán-Cárdenas;4181563268;Salud;;martineznidia@example.com;3043629489;True
+676a3f0a-197e-4f7a-9e54-2b94c07f5438;González-Figueroa;9438822114;Educación;;alexander45@example.com;2545897;True
+efcac1df-2bfc-4cff-8194-ab4af23ddac5;Mejía Ltd;0223288377;Manufactura;;rmorales@example.com;3117662047;True
+bd070dc3-3818-43b0-8f55-fe12ae6faac1;Romero-Hoyos;3429671114;Manufactura;Esther Aura Mosquera Ceballos;;018004384588;True
+eddb6fd9-c8c7-4997-a053-ddfc8517d452;Martínez Group;9741328348;Finanzas;;jhonbernal@example.com;6075070449;False
+1e69f386-b773-41f1-87d2-7729e8313f3a;García, Sánchez and Quintero;7815061853;Turismo;Cielo Pineda;;3047272742;False
+433cff2c-8580-4b5d-bd67-3adc96d44d57;Acevedo Inc;8306178932;;Laura Ortiz;;3178243477;True
+796acb11-5b62-4284-8a75-be6a292604f4;Rodríguez, Rivera and Ocampo;5581083583;;;francisco55@example.com;3083000818;False
+2722181e-4904-4b84-b194-a1dd0c56a924;Bastidas, Medina And Moreno;5791452118;Manufactura;Sandra Valderrama Vega;;3293074645;True
+e891372b-12c6-4f68-a59a-b93dcf0085d4;Castro Group;9459648831;;;hernandezjose@example.net;3159994973;False
+882e3331-b39d-4f78-a81d-960734bf80fd;Rodríguez and Sons;3192227051;;Patricia Arévalo;;3213866675;True
+cec33a31-719a-4d47-b8b7-094e28e4cfa2;Arias, Ortega and Quintero;8512686120;Energía;Roger Guillermo Muñoz;;6065177509;True
+f61ed054-56eb-4b19-bbae-249c17cd1712;López and Sons;3194226865;Manufactura;Laura Karen Ruiz Morales;;3188863677;False
+cd3269c3-5524-4f6d-bb9a-b85d9e795d26;Gonzáles Llc;8413128403;Salud;Paola Mery Acosta López;;3217173189;True
+bb790f99-ce29-4493-950d-c5fe66dba399;Martínez-Mendoza;3369112898;;Ana Sandra Ibarra;;3018574817;False
+96b9de0e-21dc-40d7-80a6-f3727eff2e54;Ordóñez-Reyes;5752250139;;;rafael82@example.com;6036311964;True
+a193b82d-51cc-459b-b83e-75b7898f29a7;Sánchez, Ávila and Quintero;7867181535;;Paola Figueroa Díaz;;6099815899;False
+fe0c6a8e-0190-443e-b01b-090ffbc0085e;Alvarado, Arias and Manrique;1075633535;Finanzas;;rodrigopaz@example.net;3099337970;False
+59e7d736-14a9-4df7-97c8-0e22e2b9d258;Zapata Inc;4364381300;Manufactura;Milena Rojas;;3256094565;True
+4ea6fb87-bc8c-4f8c-9403-b3ccdcf68030;Suárez PLC;9799070755;Energía;;xgallego@example.org;3299570607;False
+d4dc0d50-35b3-46e1-9368-d093f2470efc;Salazar, Martínez and Muñoz;5768321021;;;luis71@example.net;3096180332;False
+389dd7ec-4845-402e-b7cf-08937bd62735;Pérez, Pérez and Torres;1034699673;Energía;;wgaitan@example.com;6066843768;True
+e95e5157-a032-47fc-b9b4-58277f3acd5f;Silva LLC;7242642364;Turismo;;cordobajulian@example.net;3048762303;False
+ea23c1ba-7f00-4356-9ce3-4c374fcbb01c;Vanegas LLC;5593766189;Finanzas;;xhoyos@example.org;3135100462;False
+edb31fa5-8eaf-4bb6-ac8d-9e6f5499e6bb;López-Montenegro;4881121031;Salud;;gquintero@example.net;3281794151;True
+79546d8f-a447-4b3f-bc4f-4ca13cd172b9;Torres, Navarro and Barreto;7876553007;Manufactura;;marleny05@example.com;3219881;False
+37d23b40-035a-4a7c-bf44-b60c11fe81cd;Pineda-Cuéllar;4621276025;Turismo;;wgonzalez@example.org;3012616324;False
+dbf9f617-55f4-437f-85e3-759bf28e5612;González, Sánchez And Vélez;9650826958;Manufactura;;wcordoba@example.com;6034308761;True
+9ec2626f-005c-405c-993b-1e9aaa65d37d;Moreno-Parra;2050682122;Turismo;Eugenia Claudia Pérez Ángel;;6032469218;False
+a997e3bf-8253-4650-a88a-02a7ebc28692;Contreras-Ocampo;5138186550;Salud;;leonalfonso@example.net;3143034918;False
+8a625728-f3e9-4ebb-aebe-d032788238f9;Ardila, Hernández and Acosta;4523888562;Manufactura;Nataly Velásquez Barreto;;3267874422;False
+355e192b-d366-442b-9739-990ec8b79795;Cuéllar Ltd;0491060183;Turismo;Fernando Pérez Becerra;;3268172257;True
