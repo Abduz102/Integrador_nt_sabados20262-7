@@ -1,0 +1,316 @@
+﻿id;nombre;nit;sector;contacto;correo;telefono;activa
+6d8c90ad-5600-4f9a-bf4e-3cab81b9dba4;Uribe, González and Moreno;6391025743;medios de comunicación;;vmena@example.org;(+57)3050864035;SI
+3613320e-39c0-4cf7-b4b9-6ea6ac1e6c53;Vargas-Montoya;339.685.270-1;Educación;Andrés Juan Acevedo Hernández;carmenperez@example.net;(+57)3038167423;False
+e8cf65b3-69de-4324-ae9e-2b38d4ecdc2a;SALAZAR PLC;344.973.471-5;Salud;Eduardo Ortega Salazar;yochoa@example.com;6039661498;True
+68cd8a64-7870-4057-8538-c4feef948bbb;Díaz, Flórez and Suárez;4689715273; Manufactura ;Yineth Rodríguez Prieto;lisbeth66@example.net;57  316  749 16 01;0
+55bc9521-5f91-4be8-9ca1-c6d2a6244527;Montenegro-Pérez;645.875.066-3;Energía;Daniela Miryam Morales Toro;benavidesjorge@example.com;(+57)3224399201;True
+d124033d-53d1-4f2e-a3e6-29cb458e2f05;FRANCO GROUP;691.836.264-4;salud;William Ardila Gallego;gonzalezcarlos@example.com;(+57)6081436402;True
+295fdea6-6d4f-452a-927d-45dd50811443;García Ltd;6864622522;Salud;Olga Tatiana González Ospina;rosamartinez@example.org;+57 304 6791214;False
+115d3c6e-5ffa-4a32-ae1f-28ea6688f7bc;RIVERA LLC;150.937.710-0;Medios de comunicación;Germán Rodríguez;lopezjose@example.org;+57  31 9 847 75 96;True
+54c895aa-1080-4551-9fd1-c51f10fd5e65;Arias-Naranjo;5356690551;Medios de Comunicación;Ángela Benavides;mariagonzalez@example.net;(+5 7)  303 579 78 63;True
+a4e905b7-f33d-4db4-9770-503be0568062;Rengifo LLC;0505739769;Transporte;Carolina Yuly Ibarra;sospino@example.org;+573149328980;False
+ec3edc10-5807-4657-be0e-b635706fee81;Zapata Inc;487.271.783-3;Transporte;Andrea Zoraida Bermúdez López;perezadrian@example.com;(+57)3034712871;True
+1d0c8b08-d32e-437d-8ee5-0948364a403b;QUINTERO, TORRES AND ESCOBAR;915.668.633-4;Turismo;;mauriciogonzalez@example.com;+57  60 9 456 90 40;NO
+c310095c-aa09-440d-84bb-f1773725d841;PUENTES-RUIZ;5289931608;Tecnología;Alexander Nicolás Jiménez Torres;ssanchez@example.org;+57 576-084-954814;False
+ab14817c-ee65-42a6-ac31-a7b692e72714;JIMÉNEZ-PARADA;0523302764;Alimentos Y Bebidas;Aleida Vásquez Quintero;wceron@example.com;(+5 7)  311 844 38 61;True
+39b786b3-8061-494e-aef8-e193a4a845e4;Valencia PLC;0472927742;Energía;Sandra Katherine Galvis Rodríguez;buitragoelmer@example.org;+573162015720;False
+59f0dcc4-8165-4864-9e01-506e1bca3252;Puentes Ltd;5962630136;Alimentos y Bebidas;Jesús Orlando Pérez Sarmiento;castanowilson@example.net;+573147501111;True
+e8a89540-6024-4e43-9cae-6d21f7ca5498;Bedoya-Gamboa;3099974192;Energía;Jairo Franco Mejía;dianamartinez@example.net;573 060 688871;True
+66a84e5e-0be8-460c-8bfb-f97700520bbe;Velasco, Montoya and Figueroa;1312920875;Turismo;María Alexandra Arango;londonohernando@example.org;+57 718- 45- 82;False
+0b1021ba-00a0-4c75-95b5-1477bab16fa5;Rodríguez, Suárez and Monroy;8487297585;Medios de Comunicación;Nubia Vanessa Gómez Gómez;karenroa@example.org;+57 01 -800-3 954 296;False
+09e38864-a70e-4667-b2b8-dbd77e46d341; Caicedo LLC ;6267146283;alimentos y bebidas;Eugenia Marcela Barrera;alejandrolondono@example.net;+573292625660;0
+ab4a13c9-4dac-412a-96c1-859edc72860e; Vargas, Ortiz and Contreras ;861.515.542-3;Medios de Comunicación;José Rivera;myriamlopez@example.org;+57 573-084-971859;NO
+4bdf50e7-c166-4898-a1ab-88998ab3dff7;CAICEDO-CALDERÓN;025.625.889-6;Transporte;Orlando Antonio Pacheco Amaya;isabelospina@example.com;+57 +57-608-6539672;True
+76db097c-71f4-43a2-8aae-194f12cc26cc; Sierra-Castro ;6834146511;Salud;Dora Zoraida Pérez;garciaalexandra@example.com;+57 968-277-8;False
+832b47b8-bb95-40f6-8bed-115f0b64fc67;González, Rodríguez and Ramírez;0685389097;Alimentos y Bebidas;Gladys Nieto Guzmán;carolinamorales@example.org;+57  32 5 067 62 51;True
+c90a1a1c-4180-40e3-8088-9caba3782b2c;Caro-Vargas;814.474.430-9;Alimentos y Bebidas;Alberto Suárez Saavedra;rubiostivenexample.com;+576062509754;False
+e461922b-846b-4dc2-8425-ac5489233a70;Romero Ltd;2650167318;transporte;Adriana Barreto Rodríguez;lorena65example.com;57  316  284 17 72;SI
+f1e235a6-c9e3-46c7-a99d-cf0df14e07ab;Romero Group;053.134.026-6;Alimentos y Bebidas;;rolaya@example.org;+57 327-872-5686;False
+f32c9206-ce19-43fe-876f-9c1f0d6bcaac;González Inc;0225803056;Educación;Marina Gutiérrez;bgarcia@example.org;(+57)6047823414;False
+ce2522cd-594d-408b-8408-258cdb486e6f;Ortega Inc;892.392.312-6;Finanzas;Marcela Ramírez;jennifergarzon@example.org;+57 606 7668433;False
+fa62ef86-c212-49a3-bec5-c6651795107e;Martínez-Osorio;0414545635;Manufactura;Andrea Rodríguez;laura74@example.net;6052624755;NO
+6e13a48f-91f7-4338-b984-3b3a38a4bead;CAMACHO LTD;825.559.895-3;Manufactura;Alberto Flórez;hernandezjairo@example.org;576 096 933711;False
+0c17791f-a759-4025-bae6-7054177d4c1a;Bonilla-Cerón;382.023.684-8;Turismo;Michael Daniel Becerra;amartinez@example.net;+573202942409;True
+241921d5-d450-48e7-8544-6a9ae627aa1c; Alzate Ltd ;367.881.278-6;Turismo;Diego Ortiz Díaz;carlosvega@example.org;+57  32 7 884 43 44;1
+c3a79940-6377-4a10-aa99-a9186ca0a804;González, Torres and Lozano;4024240338;Salud;María Carolina Calderón;camila84@example.net;+57 +57- 60-6 469 45 00;True
+4e55b256-ca28-4dd0-b6b8-767c12f71d85;Paz, Díaz and Domínguez;891.649.837-3;Energía;Fernando Dario Arévalo;osanchez@example.net;573 252 717272;0
+34c6812b-bf05-413f-b33a-5cf41c6a02da;Díaz Group;240.422.693-1;Turismo;María Vargas Chávez;hlopez@example.org;+57 191-660-1;SI
+8e1543b9-c73a-426f-a17e-164ffa74f245;Betancur, Hernández and Fuentes;4290018513;Alimentos y Bebidas;Daniela Londoño Marín;vivianaacosta@example.org;+57 602 9848100;False
+ecc5f99f-2673-4312-bf6e-28a9e2284089; López-Murcia ;620.303.662-5;Alimentos y Bebidas;David Cuéllar;tpacheco@example.org;+57 57 -322- 131 45 19;True
+84ca76f5-d92b-4f1b-9e48-b0b4cedc9b43;González-Salgado;109.226.859-2;Salud;Carlos Soto Suárez;doris14example.com;+57 57 -314- 102 25 26;False
+fe6e570a-84a5-4e2e-b12e-e684e68d9adf; Camargo-Serna ;711.964.215-2;Finanzas;Jenny Romero Zapata;aaguirre@example.net;(+5 7)3 123668788;False
+c9b9d20c-0510-44db-8916-1919fd748966;Lozano-Pinto;6196893135;Finanzas;Diana Gaitán;luis21@example.org;315  24 7 28 63;False
+fadfa9f3-7903-442c-b749-bfba8c03a201; Niño Inc ;2126065019;Medios de Comunicación;Daniela Stella Sánchez;doragarcia@example.org;9962272;NO
+07d1bdc7-d1fd-4df0-88af-487cfa8a68f9;Núñez, Correa and Camargo;7041200928;Alimentos y Bebidas;;qcortes@example.net;+57  32 4 362 41 86;False
+6717b5cf-3563-49a1-ba46-2eb395ee17bb; Villamizar Group ;903.628.917-7;energía;Augusto Diego Flórez;arenasjorge@example.org;(+57)3011159503;False
+aebc4a00-67eb-456b-bd9d-ef53a938d76a;Pérez-López;390.438.303-4;Transporte;Anyi Amparo Londoño;ugomez@example.org;573 105 468356;NO
+55f86cf5-67df-4480-9e8d-b74c850a05e2;MOSQUERA, HERNÁNDEZ AND GIL;568.182.096-7;Manufactura;Milena Sánchez;ogarcia@example.org;3032288985;NO
+4686a63d-73d4-4c5e-a320-69b5167786a9;Serna-Herrera;5960633991;Manufactura;;sanchezalfredo@example.net;+57 371- 75- 24;True
+4dc18481-64a5-4d33-b652-a0b8e4d490ae;Castro LLC;5112747472;Salud;Nayibe Olga Morales;yenny92@example.com;57  318  955 16 87;True
+28d4d0ab-18e2-4def-9faf-4e18a554f0fc;MONSALVE-ARROYO;090.380.214-6;Transporte;Amparo Márquez Torres;wcamacho@example.com;+57 (+5-7)3-287112166;1
+ac5ded48-6463-4d3a-a26f-f6c57e5224d4;Castillo Inc;766.053.844-4;Turismo;Emilia Sánchez Rojas;ojedaivan@example.org;57  316  730 30 64;True
+402cb847-0437-4a1a-afcd-4e0ad976fce7;Acevedo-García;146.147.683-4;Finanzas;Marleny López Galeano;franklin42@example.org;3167782659;1
+980b4254-2608-45ee-908e-87d03f72b96b;Bravo-Londoño;931.992.550-2;Alimentos y bebidas;Reinaldo César Ruiz Mercado;umunoz@example.org;+57 322 7910336;False
+3c94dcab-1a69-4268-b60b-978ca3bfa383;Vásquez, Pérez and Rivera;5339055044;Medios de Comunicación;Judith Camila Cárdenas;iromeroexample.com;(+57)3251276528;False
+d33babe8-2a83-4fcd-b74d-03be59b7073d;PÉREZ, MEJÍA AND GUTIÉRREZ;6491111096;Salud;;barrerajose@example.org;3163378613;True
+a42b7ef6-b6e0-491b-8feb-4b392ab419b7;Quiroga-Romero;766.053.844-4;Manufactura;Jair Rosero;asandoval@example.com;576 066 002589;True
+a465cccb-6440-446b-a865-ce9806f9e1c5;OLAYA GROUP;3863960962;Transporte;Campo Pérez Rentería;francylopez@example.org;+57 +57- 32-1 964 82 53;True
+11dcc04d-9a5d-4a62-88eb-d99a962dc32f;López Group;0920981960;Manufactura;Nathalia Acevedo Castaño;danielaburbano@example.com;+57 308 3640412;True
+48346660-0c14-42c8-9c99-a09d81ba1376;RODRÍGUEZ, BUSTAMANTE AND GAVIRIA;1791124421;Turismo;Esther Gloria Velasco;ylopez@example.org;+57 321-713-6657;True
+47843aed-3e28-4ef9-9c0d-5e85f3adc7d8;Díaz Inc;299.015.579-9;Manufactura;Ana Villamizar;ramirezmaria@example.org;(+57)3282351305;True
+6e4095b8-a81e-4ec3-97a3-ad9c55cab056;Torres Ltd;244.731.584-7;Tecnología;Óscar Franco Caballero Vargas;eduardomurcia@example.com;(+5 7)  311 994 23 76;False
+f6da265f-0c2b-4d75-b3be-c9432ac4902e;Salazar-Cano;5919663955;Educación;Lorena Hilda Bustos;juan49@example.net;(+5 7)  325 601 25 62;NO
+564622ae-75f1-4211-9d30-63633c37a8eb;Vargas-Rojas;265.062.292-3;Salud;Julián Alexander Moreno Martínez;alberto83@example.org;+57 01 -800-4 919 665;True
+a05752da-c34b-44f4-a58b-dd97aafd40c1;Ramírez-Martínez;7704611729;Medios de Comunicación;William David Rodríguez;francoesteban@example.org;(+5 7)3 242608805;False
+81589a7c-b07b-4238-a87c-4473d8a79399;Rodríguez, Correa and Salcedo;644.556.185-7;Alimentos y Bebidas;Elena Benavides;princon@example.org;573191030021;False
+d7d9e975-8bbe-465b-b2b4-7adfaed1ba1f;Prieto-Vanegas;3213580040;Alimentos y Bebidas;María Lucía Ortiz;kortiz@example.org;(+5 7)3 212529671;False
+77affcde-7cb6-4b68-b694-0f44767ce2ad;Silva, Escobar and Durán;457.314.415-8;Educación;Sofía Aura Rojas García;amartinez@example.net;(+57)3076371539;True
+280b9f14-4a8d-4b57-a571-85269e01afe5;Molina, Álvarez and Barbosa;7281235679;Manufactura;Sara Diana Castro Pérez;rodolfo91@example.org;(+57)3211307240;NO
+0563ab06-35a3-489c-a5fa-35cbc07da9e6;Durán-Cárdenas;418.156.326-8;Salud;;martineznidia@example.com;+57 +57-304-3629489;True
+080f1150-19de-40f9-b376-caed28d68fad;Delgado-González;0313100943;Energía;Mónica Marcela Nieto;ggiraldo@example.org;+57 (+5-7) -307 323 54 94;False
+a60ae3a5-4c2f-4679-a028-5948731493cf;Rodríguez, Díaz and Gamboa;974.325.122-5; Salud ;Carlos José Ortega Quintero;aldemarrangel@example.org;4957907;True
+ae77e364-e413-4796-adf7-0eb41dfb8f08;González-Figueroa;943.882.211-4;Educación;;alexander45@example.com;+57 254-589-7;True
+c48a8aaa-b28e-4b37-9fbf-34f614a00123;Duque-Padilla;0263257039;Medios de Comunicación;Manuel Sarmiento Ramírez;rhenao@example.net;+57 018-007-824556;False
+3687501d-5dc0-4ad8-a421-b68af7cc6341;Guerrero, Portilla and Álvarez;098.591.679-5;Salud;Luis Rodríguez;licethsanchez@example.com;018002474140;1
+9efc8969-f69a-4728-919b-fe3c0ae28d54;Gómez-Gutiérrez;910.740.650-0;Salud;Carlos Cuéllar;leonelamaya@example.org;+57 306 9143075;False
+c88c25a6-f07f-41c9-b79d-bcf8580a3395;Guerra Ltd;6661449429;Medios de Comunicación;Pedro Ruiz Escobar;tatianaguerrero@example.org;573 141 497826;True
+2116a5b8-3469-4181-8f59-0a21c19455bf;López-Silva;5857567667;Turismo;Aida Rodríguez;ilopez@example.net;+57 573-139-852989;False
+d1fbd91d-1f1c-4283-81f0-e20c73aadd21;Martínez-Meza;260.787.010-4;alimentos y bebidas;Claudia Luz Gutiérrez;dbarrios@example.org;+57 +57- 32-0 382 87 23;False
+d00000c0-2c0a-4acf-8c6c-dad2e60b00a6;Bedoya, Sánchez and Méndez;0793110291;Manufactura;Paola Luz Rodríguez;hgiraldo@example.com;(+57)3172384979;False
+9ac26fe6-c2aa-4d8d-ada2-18f0bbf5b163;MEJÍA LTD;0223288377;Manufactura;;rmorales@example.com;+573117662047;SI
+52ae5eb2-fc79-4ca7-8e04-7a078b1f2008;Ospina Inc;9409705277;Medios de Comunicación;José Sánchez;doristoro@example.com;+573212259572;1
+2fad6494-aa05-4f1d-8aba-1498b6314f2c;Serna-Navarro;6176792988;finanzas;Carlos Valencia;juan61@example.org;6064231177;True
+5fe3aa91-d752-4683-92be-bbc3a85bbf47;Rosero, López and Rangel;661.094.101-7;Manufactura;Ricardo Jonathan Salgado;sandra76@example.org;01  800 3 347 743;True
+fa5aaba2-44cd-4119-82bf-2bab03db9f2a;Villamizar Group;831.901.302-0;Educación;Sergio Julián Leal;rosa87@example.org;(+57)3097855982;True
+153960c9-b590-440a-bbc3-152c45766f39;MENDOZA LTD;6191284117;Educación;María Alba Rodríguez Pinto;elkin46@example.net;3112418938;True
+72f4626f-6794-4120-adf9-dd9e6db7f9f2;Sierra, Castillo and Martínez;8137214330;educación;Ariel Andrés Ramírez;martin03@example.com;+57 (+5-7)6-029990516;True
+1cc27860-7267-4ff4-9d39-984419f7e712;Monroy-Ortiz;010.783.567-4;Energía;María María Perdomo Arrieta;vcarrillo@example.org;018007066266;False
+6708ef37-cf0c-4c51-a482-0ae60fafff6c;Hernández, Mendoza and Triana;553.560.331-9; Medios de Comunicación ;Martha Cano;arroyomaria@example.net;+57 57 -300- 102 72 40;False
+4a23b300-b67d-4acd-97d0-33a45896a022;Romero-Hoyos;3429671114;Manufactura;Esther Aura Mosquera Ceballos;raquelsuarezexample.com;018004384588;1
+66a287ff-8f88-4379-b311-56b226fb5111;Martínez Group;9741328348;Finanzas;;jhonbernal@example.com;576075070449;False
+af330723-b5fb-4336-93a4-d0e4f1657b10;Martínez PLC;670.667.033-6;Manufactura;Sofía Lozano Durán;rioserika@example.org;+57 (+5-7)3-149305966;False
+b1203086-1c55-4d35-820a-7f266b8d58a5;Oviedo, Espinosa and Arévalo;8648769984;Salud;Yeimy Correa Ángel;marcelarodriguez@example.net;(+5 7)  301 384 59 60;True
+ff304ac2-8826-44da-abd6-356ea9f3767b;Castro, Ortiz and Vargas;9014954277;Manufactura;Marina Correa;yeimy83@example.com;+57 602 8914985;True
+3b907dc2-0579-4bfa-b5e9-e6643b42700e;MUÑOZ LLC;4723229031;Energía;Andrea Mora;cmurillo@example.net;+57 300- 44-0 58 09;SI
+1bd51c40-4d28-4b2e-b97c-ee1e9e246ba9;Romero Inc;8718133595;Turismo;Andrés Osorio Gutiérrez;valenciafabian@example.com;+57 325-749-0250;True
+1a77ada5-c698-43a7-ab28-6de8b426dbeb;Granados-Barreto;019.358.895-3;Educación;Albeiro Gómez Bonilla;pcastellanos@example.org;(+5 7)6 092398986;NO
+88b0e1a3-4da5-460f-bc2e-e8861ae5895f;Bautista, Calderón and Navarro;875.439.435-3;Educación;David Alexander Cardozo;mabelyepes@example.com;+57 57 -311- 588 15 79;True
+36244192-a639-4862-a378-1c9be7686aa5;Cardona Group;392.836.929-4;Tecnología;Enrique González;jsalazar@example.net;+57 57 -323- 270 21 64;True
+5ae147a6-f1b1-4fd0-9e8a-b2b92f4a1bad;Amaya, Correa and López;5356690551;Manufactura;Carlos Gustavo Moreno;paola59@example.net;+57 607- 50-1 57 67;False
+40b785bd-151b-4cfb-a6b3-7fe34ad1536e;Bermúdez-Ardila;981.209.957-6;Alimentos y Bebidas;Óscar Alfonso Fernández;morenomaricela@example.org;+57 (+5-7) -328 986 45 65;True
+d4fef846-4166-4857-a89f-322f65610cce;Posada Inc;3684995154;Alimentos y Bebidas;Luz Castro Mendoza;nancyprada@example.net;+57 609- 33-4 21 38;False
+ba429f3d-8e42-4deb-a5b5-f9372618bedc;Carvajal Inc;8830705349;Energía;Arturo Guzmán Serrano;gerardo17@example.com;57  324  124 15 13;0
+14625f75-b2de-4254-959b-0080ae36c5b1;García, Sánchez and Quintero;781.506.185-3;Turismo;Cielo Pineda;marcelariveraexample.org;+57 +57-304-7272742;NO
+bfc9a0b2-78a9-4da5-92e2-6702ce841f5b; Acevedo Inc ;830.617.893-2;Alimentos y Bebidas;Laura Ortiz;pbarreraexample.net;317  82 4 34 77;1
+83929b7a-f165-40e6-95c3-6af5c737c621;Medina, Mosquera and Ramos;131.467.536-1;Medios de Comunicación;Cristina Ruiz González;xrueda@example.com;573296304483;True
+a1cdd395-3cde-4b88-a91c-e83bad1a9b77;Martínez-Fuentes;4566766404;Energía;Wilson Enrique Figueroa Álvarez;ktorres@example.net;(+5 7)3 019952980;False
+505476ee-fc77-423d-b5cf-a7d90adee29c;Rodríguez, Rivera and Ocampo;5581083583;Medios de Comunicación;;francisco55@example.com;(+57)3083000818;NO
+e0995acd-1620-4bee-a220-b9a54373b29b;Mercado-Gómez;440.330.416-6;Tecnología;Maribel Pardo Prieto;garciadaniel@example.net;320 089 2196;True
+5a0e9483-1a37-4598-bb31-6572a12d3100;Serrano LLC;5680447314;Finanzas;Eduardo Alejandro Torres Parra;lidia88@example.org;+57  31 0 765 81 73;True
+5f10b510-5466-4797-8796-a19b8fd5c76a;BASTIDAS, MEDINA AND MORENO;579.145.211-8;Manufactura;Sandra Valderrama Vega;hernandezdavidexample.com;+57 (+5-7) -329 307 46 45;True
+c01b3fb2-9e17-4724-bf54-1c6afe78331a;Gómez Ltd;9960438787;educación;Edilson David Restrepo;vmolina@example.net;316  16  20;False
+d5bfc4dd-c574-47ff-89ae-a01204f35029;Zambrano, Pérez and Mendoza;106.728.728-6;Turismo;José González Barragán;jose95@example.net;302 483 9589;False
+f024fda1-50f8-4fe1-b826-519ca260e318;Ortega-Rojas;522.870.562-2; Manufactura ;Andrés Elmer Álvarez Díaz;montoyavanessa@example.org;+57 (+5-7)3-292158350;True
+e326b705-a5fa-46c3-92b9-7b6d33e61233;Castro Group;9459648831;Medios de Comunicación;;hernandezjose@example.net;+573159994973;False
+b68d81bc-b445-43df-9338-a7dda81adbc7; Rodríguez and Sons ;319.222.705-1;Alimentos y Bebidas;Patricia Arévalo;uvergaraexample.com;+57  32 1 386 66 75;1
+0ccbf01e-77ca-460b-b82a-c18b4734bb34;Velasco-Ruiz;1932426877;Alimentos y Bebidas;Héctor Velásquez;larango@example.org;+57 57 -317- 563 98 36;False
+7bd3bc7a-1965-45d0-874f-63e329e8e440;Díaz-Cano;0375830945;Energía;Bertha Yineth Mora;calderonmaria@example.com;3260440907;False
+f577545d-c7df-4176-9b4d-cdb39f4584ac;Barrera, Rincón and Ortega;810.509.222-1;Transporte;Wilmer González Marín;alvarezesteban@example.com;+57 309 0552958;True
+d6bc3687-ef3d-470a-b0a0-210c92f90ef7;Ibarra Group;601.382.412-7;Educación;Marcela Ramírez;vperez@example.org;573 148 515791;False
+d9f34889-58b7-4857-9297-58a979e7f094;Granados, López and Prada;212.590.203-5;Energía;Andrés Nelson Vargas Velasco;mauriciodaza@example.com;+57 606 7642429;False
+15e1943f-4022-4ad2-92fb-d6a749fcdd82;Perea LLC;3244741759;Manufactura;Javier Armando Cardona;mariapalacio@example.com;(+57)6046893654;False
+39ef867d-346e-489f-a4a5-9e3f14646827; Bolaños, Caicedo and Villamizar ;418.343.740-1;turismo;Leidy Correa Ruiz;cnavarro@example.com;6062502675;True
+17afc498-5c3e-4d72-95b4-69c9e7cf46d5;BARRETO LLC;278.207.979-9;Alimentos y Bebidas;Wilson Ortega Vargas;alberto76@example.com;576 071 381664;1
+c6090083-5490-4cc4-80d7-c0ea62d147dc;Molina LLC;983.922.501-4; Transporte ;Yenny Cruz Pérez;navarroalejandra@example.org;573 141 233613;False
+6fa5f091-5667-47f3-a5ce-a485305b1d1d;Duque LLC;0725178637;Transporte;Albeiro Toro Castellanos;giraldoyolanda@example.org;(+57)3154696815;True
+962ecb60-f1db-4715-999e-6f00da92511c;Camacho-Manrique;039.235.558-0;Energía;René Jaimes Hernández;mariasuarez@example.org;+57 (+5-7)3-162624467;1
+3dbc4225-d19d-485e-abff-553502ec88ed; Muñoz Group ;2268171516;Turismo;Ana Hernández;aduque@example.com;(+57)3160464197;0
+b21c7062-4eb4-4b1b-95b2-d152d899ddc3;Arias, Ortega and Quintero;851.268.612-0;energía;Roger Guillermo Muñoz;dmejiaexample.com;+57 576-065-177509;True
+ab300687-dc7d-45da-86e0-fcd762133b32; Quintero-Jiménez ;084.245.607-5;Finanzas;Leonardo Hurtado;miguel86@example.org;+57 573-018-122764;False
+787f9da2-3af7-423f-8ec3-b89416f54c34;Domínguez-Barrios;389.701.550-2;Medios de Comunicación;Liliana Emilse García;rubiela02@example.net;+57 +57- 30-1 613 94 49;False
+e3d18279-4c3b-47b2-981c-b9f06f0261fc;Montoya, Alzate and Vélez;0597364248;alimentos y bebidas;Angie Chávez;luisa63@example.org;322 447 9513;True
+f32df7aa-6145-4f48-9b1b-2541f25a98f0;Rodríguez LLC;319.497.969-5;Finanzas;Jairo Velásquez Herrera;erika72@example.com;57  323  826 46 09;False
+40c94177-dbf2-441c-a70b-7c556dbd817b;Barrera PLC;513.854.457-7;turismo;Ana Orozco;carlos60@example.com;+57 01 -800-7 368 269;True
+e60558df-0a9b-46c1-8315-cf020fa0e0c1; López and Sons ;319.422.686-5;Manufactura;Laura Karen Ruiz Morales;vergaraeduardoexample.net;+57 +57-318-8863677;0
+38e5d7b9-7718-40d0-82ee-2b21490318fd;Luna-Cardona;264.085.721-6;Alimentos y Bebidas;Gildardo Peña Acevedo;isabelbeltran@example.org;+57 320-593-2971;True
+79cb9973-3fc6-4a71-b874-9926d891bb86;Rodríguez-Agudelo;688.327.532-7;Tecnología;Cecilia Milena Lara Rojas;rcruz@example.net;+573232781952;True
+64a3f937-a25d-4b0c-8146-fb93c93ab3d3;Restrepo Inc;006.876.164-8;Educación;Edith Angie Villamil;mendozapablo@example.org;316 056 8761;False
+1eaa4f63-4c4d-462d-b124-9c2b30cc0115;Sánchez LLC;9125652373;Turismo;Luis Bedoya;cruzcamilo@example.org;+57 +57- 30-5 475 74 94;True
+32207197-5a71-4f11-a26f-992e3cd34e98;Gómez, Hernández and Guzmán;0359544294;Turismo;Esteban Fredy Sánchez Cifuentes;milenajimenez@example.com;+57 +57- 30-3 039 42 90;False
+092047eb-525f-4350-8e02-4fe1e6b69537;Morales-Palacios;867.925.298-5;Salud;Eduardo Franklin Jaimes;ydiaz@example.org;(+57)6052534332;True
+edea8487-1412-4378-b32e-53d9559e6081;Ramírez, Sierra and Jaramillo;083.350.615-8;Salud;Marcela Magdalena Sanabria;manriqueluz@example.net;(+5 7)  323 342 33 72;False
+8b847be6-a24e-4b04-a2b9-f5695af2249c;GONZÁLES LLC;8413128403;Salud;Paola Mery Acosta López;ruizfernandoexample.org;+57 321- 71-7 31 89;SI
+52ae81de-f3d0-4159-b898-740d1002a025; Carvajal LLC ;9096173997;Alimentos y Bebidas;Carmen Parra;jacqueline25@example.net;328  44 4 83 54;False
+df73bed3-03d7-4bb9-9093-4386ac55e66b;Londoño, Álvarez and Mendoza;2759980111; Turismo ;Fredy López Prieto;fernando82@example.org;+57 609- 83-3 48 45;False
+51e72747-47a9-42bc-94c1-500f45ca4589;Duque PLC;392.523.622-9;Energía;Cecilia Delgado Ortega;rpatino@example.org;+573074524555;NO
+285b96ba-4424-4ee5-9bda-bb50112deb39; Álvarez-Londoño ;0725178637; Alimentos y Bebidas ;Sandra Clara Jiménez Arias;yadira65@example.net;018003398741;True
+689e8a19-74ba-419c-908e-0a5d6c0f436f;Vargas LLC;7970673499; Alimentos y Bebidas ;Andrés Martínez Herrera;betty41@example.com;+57  60 5 415 62 29;True
+bdead02d-223e-4467-9099-01cf74e38972;López, Vargas and Córdoba;488.402.155-7;Energía;Andrea Cristina Cruz Quintero;rocio02@example.org;3266708085;True
+a4f9797d-ef61-4074-810e-5b8edbbf7f54;Ospina Inc;8587495119;Medios de Comunicación;Yurany Sara Contreras;cordobayessica@example.net;+57 301 6477251;True
+20e2ee95-398f-4303-8c6b-40a662a86873;JAIMES LLC;7860694096;Salud;María Ruiz;beatriztorres@example.net;+57 +57-318-7395923;NO
+2a23fe01-17b7-4d87-94b0-75fbe32d05d2;Rojas and Sons;1089028515;Energía;Smith Pablo Ramírez;estelaortiz@example.org;3102716073;False
+5156835a-bf42-43bb-b911-dd60a118f32e;Martínez-Mendoza;3369112898; Turismo ;Ana Sandra Ibarra;cesar56example.org;+57 (+5-7)3-018574817;False
+9b00e911-a93c-4825-ae4c-5766fb2b3b0a;Rodríguez Group;615.541.643-1;Tecnología;Duván Rodríguez Alfonso;maria32@example.net;+57 128-227-0;0
+fd436008-1bd1-4775-918a-db49cc705400;Arenas, Gaviria and Durán;596.262.282-2;Manufactura;Gilberto Luis Pérez;zramirez@example.net;573149500507;False
+4e6afddc-bb86-440d-a13e-c5d6bb0feb95;Galvis and Sons;608.698.221-0;Educación;Efrain Luis Ojeda;tamayomargoth@example.com;018007290477;0
+9cb58cfd-98cb-4621-bb86-caf444c1e677;Hernández-Hoyos;7328077113;turismo;Yamile Sánchez Navarro;becerraamparo@example.net;6089334245;False
+a6b23cf1-d977-4b41-b95e-739872b186db;Escobar, Loaiza and Ochoa;2565290603;Transporte;María Acevedo Perea;ceciliaruiz@example.net;+57 327- 53-9 67 37;False
+e239b514-5f62-42a7-833e-b23a4c93139f;Muñoz, Mendoza and Sarmiento;8552457871;Turismo;Alonso Fernando Ocampo;ibedoya@example.org;603  63 7 11 84;False
+2cabdd80-3333-469c-9513-3b27d9ac419d;Cárdenas-Cortés;1826832303;Alimentos y bebidas;Cristian Adolfo Londoño;menesesjulieth@example.org;(+5 7)  322 521 29 32;False
+d52f0b44-ad9c-4aaa-a43d-72887f4032e7;Valderrama, León and Andrade;4064686775;finanzas;Consuelo Suárez García;laura99@example.org;+57 +57-607-3622723;True
+5870ab16-1d74-4b82-88a5-43b76bc31043;Guerrero, Vega and Vargas;5134261923;Medios de Comunicación;Carlos Fernando Valencia Henao;jose97@example.org;+57 +57-324-1897215;False
+68a2bfe0-9e50-4487-b73d-ac2cb36bfdcf;QUIROGA-GÓMEZ;4176927438; Finanzas ;María Dora Olaya;daniela76@example.com;+57 +57-607-5144485;False
+3dfa8b1e-d5c5-4221-aaa7-59e6d951e660;García-López;7397396417;Tecnología;Ricardo Polo Soto;agudelojuan@example.net;6077911359;False
+587cad48-1679-479d-9aad-fbd9cb055a61;SARMIENTO, ROMERO AND MESA;0597364248;Alimentos y Bebidas;Valentina Valencia;marco07@example.com;315  53 4 70 57;False
+90091802-f0d9-49f5-8a35-12fe41064ce1;Arroyo, Ortiz and Alzate;388.565.271-5;Energía;Mario Gabriel Perea;valentinasuarez@example.net;465  97  26;SI
+e3c013c6-0c32-4a36-bb2c-c82fec6c0785;Ordóñez-Reyes;5752250139;Alimentos y Bebidas;;rafael82@example.com;(+5 7)6 036311964;1
+f6e555a0-f9ee-4278-af27-9985a2a2301c; Romero, Hernández and Flórez ;4991537038;Educación;Nelly Castro Zapata;esthertorres@example.net;(+5 7)3 020430977;NO
+76f0828c-b4b5-40df-bd0f-bf41384e186a;Velásquez-Molano;3628969645;salud;Alejandro Morales;angelicamosquera@example.net;+57  60 9 853 89 21;False
+626e85c1-519b-471e-8227-d52a73becbcd;ÁLVAREZ, ARÉVALO AND AGUDELO;583.749.079-7;Salud;William Andrés Barragán Rodríguez;dvelasquez@example.com;322  15 1 49 40;False
+c6986cda-1b4f-4275-bef4-626672f0915d;CARVAJAL, OSORIO AND CABRERA;263.748.453-9;Tecnología;Carlos Montoya Carrillo;nelson90@example.net;+57 319- 11-9 18 62;True
+b9421192-1258-4f00-8b10-e2f266a97a30; RAMÍREZ, GONZÁLES AND PERDOMO ;2207151169;Energía;Roberto Flórez Ortega;rosa45@example.org;+57 573-247-124633;True
+35358561-d88c-482b-b105-c70f52801633;Rengifo-Barrera;571.840.908-0;salud;Luis José Bustamante;rodriguezkelly@example.org;573112397283;False
+ed648193-0d34-41a1-94ee-899750168dcc;López-Carrillo;295.927.282-7; Manufactura ;Mercedes Rubio;arevalomercedes@example.com;+57 608- 45-2 98 21;False
+cc718c81-4426-48ff-9dbb-20f98e2dd971;Sánchez, Ávila and Quintero;786.718.153-5;Medios de comunicación;Paola Figueroa Díaz;dgomezexample.com;+57 609- 98-1 58 99;False
+1845e768-2e71-4ccc-ae5b-8d0688c25fe3;Uribe-Franco;4527346666;Salud;Esther Esther Ruiz;tleon@example.com;310 803 1499;False
+1dd1c0ff-4ceb-428e-b910-dba8278a4041;Pérez, Álvarez and Martínez;004.635.806-8;Turismo;Johana Duarte Gómez;dianaquiroga@example.org;+573113739900;False
+ee6ca3a2-1645-4960-bcb9-534560c9338a;Rojas-Barrios;403.526.356-0;Transporte;Patricia Vargas Camacho;tduarte@example.net;573 134 606664;False
+667989fe-7932-45a6-a31c-6ba068d6fed8;Ayala Group;490.607.231-1;Turismo;Ana Dary Martínez;claudia46@example.com;018004494116;True
+7f7c715f-b83f-4916-b356-570b5a2bbb4c;Quiroga PLC;7328077113;Medios de Comunicación;Marta Díaz;vargasdavid@example.com;+57 (+5-7) -606 179 08 33;True
+78f631b5-d0bc-499e-8b28-66bc2668e3ea;Rodríguez, Sánchez and Estrada;4257306624;Finanzas;Martha Eugenia Quintero;crodriguez@example.org;+57 57 -309- 848 22 85;False
+6791bc2e-53e5-4511-81c8-2c0d84b58823;González Inc;6880925502;Finanzas;Flor María Rodríguez;aguilarangel@example.org;300  98 1 07 96;True
+29e02119-30dd-4582-beb0-eb366d2a5968;Duque-Giraldo;3794577278;Energía;David Jorge Ariza;kanaya@example.com;609 464 2076;True
+3e97d0f6-099a-45af-a341-1e28b7ec2f42;Hernández-Pineda;3666777675;Salud;Alexander Diego Vanegas;estheramaya@example.net;+57 309 5786543;False
+83f09058-3370-4597-ac38-eef4d9cb4a76; Hernández-González ;749.603.358-2;Educación;Eder Mejía Barbosa;velezconstanza@example.net;+57 573-049-269326;False
+925f0ac7-1b92-4db4-82c2-9cb3833b8e66;CORREA-SALAS;2759980111;Tecnología;María Prieto;quinteroandrea@example.com;+57 +57-302-3415959;True
+907afe6a-b5e4-49ae-82a8-f301e12dd7ab;Ortega-Narváez;4418222618; Transporte ;Carlos Cortés Correa;eduardo31@example.net;+57 (+5-7) -607 871 02 67;True
+77dbc105-0918-491b-9cef-ddb8ffa3c74f;Castañeda PLC;579.927.079-5;Manufactura;Ovidio Vicente García;antoniobuitrago@example.org;576081354159;False
+df0f5c94-3779-40ba-9c00-6cc099225085;Naranjo, Guerrero and Pérez;4384807520;Transporte;Judith Marcela Orjuela Quintero;cesar71@example.com;01  800 0 290 904;False
+8f213e10-edf3-4f16-8dd9-08dbd5710874;RAMÍREZ-CORREA;6046558665;Educación;Jhoana Pinzón Cortés;fcastro@example.com;4581021;True
+e6211ef7-18ca-4571-9734-03d088da26e8;Díaz Inc;293.110.059-1;Turismo;Margarita Paz Tamayo;fabian19@example.org;+57 +57-601-7231211;False
+f27c803d-4602-4538-a3dc-37737c5dac44;Moreno, Martínez and García;583.737.927-4;Medios de Comunicación;Inés Palacios;diazelena@example.org;+57 018-009-311325;True
+6a067b60-62ea-4d9c-afa1-312932781fce;Pérez Ltd;949.684.364-5;Educación;Mónica Teresa Bolaños Vargas;patriciamartinez@example.com;+576066961701;True
+59192e37-257a-4116-accb-4fff230b362e;Duarte, Buitrago and Martínez;4575757475;Salud;Martha Andrea Barrios Peña;yvalencia@example.com;(+5 7)3 277226602;False
+d7547f5d-3ac3-4116-8e72-155bdb303acb;Flórez-Polo;265.062.292-3;Medios De Comunicación;María Leidy Ortiz;mariamedina@example.com;01  800 4 337 976;True
+3510b14f-99e2-4fb9-976b-a614f577b25c; ERAZO-PÉREZ ;051.157.942-3;Alimentos y Bebidas;Rodrigo Camilo Rodríguez Álvarez;ruthalvarez@example.net;+57 573-291-928455;True
+ec6f6f56-50e3-45ad-88eb-2ad5a7af430e;Alvarado, Arias and Manrique;1075633535;Finanzas;;rodrigopaz@example.net;+57 309- 93-3 79 70;False
+b51d61bd-cc30-44a4-bf68-26db98ba08e9;Palacios-López;2951877941;Manufactura;Jhon Juan Solano Amaya;edgar07@example.org;+57 300- 55-9 78 24;0
+633ad674-21bc-4149-a6a8-3b56aa2bfef8;Reyes-Álvarez;833.991.403-8;Manufactura;Antonio Rivera;jimenezadriana@example.com;608 706 1572;True
+05944de9-cacb-4d1c-a63e-8dee75f72f80; Sánchez, Marín and Álvarez ;4743974292;alimentos y bebidas;Bryan Luis Salas;uarias@example.net;+573180656259;False
+728e8dac-d1a3-4178-b730-8cf4db78c821; Franco LLC ;9908027112;Turismo;Luz Pérez Forero;gallegosantos@example.com;+57 165- 17- 68;True
+78123516-95c3-4c8d-b6e0-0102164feacb;Guerrero, Angulo and Vélez;8137214330;Salud;María Benítez;olivagomez@example.org;+57 (+5-7) -601 928 55 66;False
+f2cc21f5-7f86-485e-a852-90377d06d8b2;Rincón-Camacho;6810390339;Transporte;José Hernando Murillo Arias;catalinasanchez@example.org;3148586239;NO
+ac385cf5-ccb5-4a24-9fc8-043ff5901316;Quintero-Valencia;891.649.837-3;Energía;Andrea María Cifuentes Villamizar;alejandrajaramillo@example.net;573 139 457039;False
+d8e083e9-aa89-4996-9d8b-8c8f68844111;Rojas-Rodríguez;032.537.657-6; Alimentos y Bebidas ;Magda Ramos Hurtado;anagonzalez@example.org;+57 608-790-0404;False
+6c6446ee-5988-41ea-9fc8-0e76723c48af;Jaramillo, Pérez and Martínez;336.514.604-0;Finanzas;Lucía Marcela Granados;paolahenao@example.net;608 972 0113;0
+1b05ccfb-6e8f-4bae-a795-3b49f67365b3;Ortiz-Narváez;7123166007;Alimentos y Bebidas;Albeiro Peña Cardozo;hoyosjean@example.com;+57 317-340-4337;True
+c249565b-b9f1-44fe-a601-103acd3a2a6a;Barragán Inc;9687304519;Finanzas;Miguel Felipe Pérez;daniel82@example.com;316  29 6 57 54;False
+d8c00890-a33d-4b02-88b7-2f114a951e04;Aguilar Group;865.619.425-5;Medios de Comunicación;Daniel Ángel Duarte Naranjo;jose29@example.com;018002923616;False
+8617dae5-74ca-4359-b0d6-7c16160c1f4e;Cerón PLC;081.904.823-5; Medios de Comunicación ;Luis Arturo Bautista Caicedo;zguzman@example.org;+57 316- 13-7 23 08;False
+f5e246e2-2ae4-45e5-81b1-37bad065e4d7;Zapata Inc;436.438.130-0;Manufactura;Milena Rojas;martineznoraexample.org;+57 573-256-094565;SI
+391ef716-0490-4979-b10e-b88fb6f6a464;Suárez PLC;9799070755;Energía;;xgallego@example.org;+57 573-299-570607;False
+9129a7f3-c37d-4652-a435-5cb799ba0cb4;Ortega PLC;113.176.539-7;Tecnología;Cecilia Cortés;arojas@example.org;+57 929-087-1;True
+d7c08500-6eda-4972-a0b4-931d4230a11d;Restrepo Ltd;9680491872;Medios de Comunicación;Jorge Carlos Gutiérrez Quintero;pachecoeder@example.org;+57 +57-307-7306260;False
+583da109-a72c-46c4-9962-835139f06426;Díaz-Herrera;9737112229; Manufactura ;Marina Morales;hrodriguez@example.net;573181670468;True
+184ab14a-4517-47db-b560-2e01a15c0335;Salazar, Martínez and Muñoz;576.832.102-1;medios de comunicación;;luis71@example.net;+57 573-096-180332;False
+f74da71d-3f6f-4029-8883-6a6987434ede;Hernández-Narváez;0508018498;Finanzas;Lucía Arrieta;marco73@example.org;+57 327- 73-1 26 88;True
+a3deab54-a44a-45b5-8328-2d4cab7ab887;Sánchez and Sons;821.781.923-6;Medios de comunicación;Eder Arley Parra;ugomez@example.com;603 835 6793;False
+75030258-f5a3-4a5b-9ec2-a37539bbd884;Núñez, Palacios and Parra;239.847.169-0;educación;Andrés García Galindo;ivangomez@example.com;+57 (+5-7) -314 754 89 54;True
+1ec3f0ce-fc55-4a47-bcaa-c18c0b48dd7b; Molina-Flórez ;9899927517;Tecnología;Sebastián Mario Martínez;oswaldo49@example.net;305  53 9 35 43;False
+773a4f50-7309-463a-8b21-c97239f1ee38;Delgado-Peña;496.392.435-8;Alimentos y bebidas;Alberto Miguel Guzmán;vanegasgerman@example.net;573039527536;True
+e06b1ab3-01ff-40c0-af1e-e559e520db70;Becerra-Montenegro;785.249.141-6;Medios de Comunicación;José Díaz Betancur;jcardenas@example.net;(+5 7)  308 963 40 67;False
+964d5665-411b-421c-bca8-bf19e6e88bbc;GONZÁLEZ, MENDOZA AND ÁLVAREZ;2215001418; Educación ;Carlos López;qramirez@example.net;+57 607 4015944;True
+ee19fa25-d26f-4d47-bb15-dc1f769f7550;TORRES PLC;9485320895;Manufactura;Andrea Lidia Flórez Ríos;pedrazaandrea@example.net;(+57)3071136337;False
+5cf9231d-ae62-4652-be0a-307be41fdf28;Pérez, Pérez and Torres;103.469.967-3;Energía;;wgaitan@example.com;6066843768;1
+9d161a9f-13d3-45cb-b593-a62a2ef8f0e8;Sierra PLC;6793521962;Finanzas;Alberto Álvarez Parra;alejandroburbano@example.com;320  93 1 70 69;True
+8ee2df89-0249-4c66-9bb6-843e37deaae1; Mosquera-Rodríguez ;676.164.534-5;turismo;Jairo Pérez;edgargonzales@example.com;+57 601 5312198;False
+cd0a5d3a-c819-4967-8af0-b8198ef01f05; Silva LLC ;7242642364;Turismo;;cordobajulian@example.net;573048762303;False
+497c71e9-de96-49ab-ae31-7103fb0a9843;AMAYA, MARTÍNEZ AND LÓPEZ;281.785.228-2;Educación;Helena Cecilia Pérez Ortiz;sierrajohan@example.com;+576065207223;NO
+cfe20743-d36e-47dd-96b6-ea76458b5c57;Vargas-Díaz;1329016204;Alimentos y Bebidas;Cristian Mauricio Gallego Caicedo;dcampo@example.net;(+57)3259964862;False
+aa47223e-17dc-4ccb-bf3e-9fe8619674c6;Andrade, Hernández and Gómez;1954196664;Transporte;José Mauricio Espinosa;nohorahenao@example.org;+573292463203;True
+1aadd066-9bb2-48bd-9122-3007c8d85e57; Muñoz-Castillo ;753.726.032-1;Alimentos y Bebidas;Eduardo Romero;bmurcia@example.org;3158870715;1
+9c0b25a6-da95-4ceb-b173-89e99821c9db;Ramírez-Caballero;201.284.008-3;Educación;José Diego Vera;uromero@example.com;57  310  891 77 68;True
+59ea9259-afcf-4a7f-8f01-30d58b4d3de3;SOTO PLC;981.265.742-2;Energía;Luz Liliana Medina Gómez;maria23@example.com;+573062689430;NO
+4fa9e53f-e9f9-42fd-9014-078238bbe04d;Pérez Inc;471.372.711-7;Salud;Mario Evelio Gaitán;carlos85@example.net;+57 +57-318-2984933;False
+923c5959-570c-41b4-b64f-4b8eedd41122;Mejía LLC;5847609441;Tecnología;Yaneth Meza Torres;margothsanchez@example.org;+57 018-008-566695;False
+d4f7fce4-fb5d-4b7f-ac00-738c10abe97a;García-Pérez;715.066.626-7;Turismo;Claudia Arias;leidy76@example.net;+57 (+5-7)3-066343925;True
+beab3bc0-d727-427f-90a5-5751f8a41573;Carvajal PLC;6111102867;Alimentos Y Bebidas;Nury Rosalba Benavides;abelardorodriguez@example.org;+57 576-013-245591;False
+575ed19d-83a0-4cb5-b584-364fb8be98f4;Valencia-Gómez;9109032671;Manufactura;Orlando Garzón;roaamparo@example.org;(+57)3294281793;False
+71e23b6c-67bf-46f4-a633-8808d02d4439;Gutiérrez, Medina and Quintero;277.584.466-3;Transporte;Hernán Rojas;jsanchez@example.org;+57 309- 12- 17;True
+75f36832-655f-4cbd-b49b-fcf4e664a986;Vanegas LLC;5593766189;Finanzas;;xhoyos@example.org;(+5 7)  313 510 04 62;NO
+9ed650a0-d950-4778-8aef-6fd715c154a7;Restrepo-Parada;5725659202;Tecnología;Camilo Reyes;milena23@example.net;+57 57 -324- 326 00 55;False
+db387a6e-6673-4ae3-8413-89195df3c9a4;ARIAS, RODRÍGUEZ AND RAMOS;833.258.486-8;Medios de Comunicación;Marina Cielo Meneses Cárdenas;andres70@example.com;(+57)3106917679;True
+06dcd947-52b8-4607-a6af-9ac53d23d184;Moreno, Álvarez and Vega;7440394640;Salud;María Delia Cardona Medina;egomez@example.com;+57 018-008-608490;False
+21cf4d90-9c7d-46a9-a771-776ff352c101;Villamil-Rojas;841.368.528-3;Manufactura;Nubia García;gonzalorodriguez@example.org;+57  30 2 446 26 32;0
+352d6ee8-4ada-4ec3-9635-f3b69ae36f9a;López-Montenegro;4881121031;Salud;;gquintero@example.net;(+57)3281794151;True
+57a6f429-e7aa-4435-bac1-cd19555359f1;Díaz-Arévalo;8409112252;tecnología;Daniela Lucila Barrera Gómez;balzate@example.org;+573263239791;True
+575904c6-df9e-48f5-b881-9f73c1cf5566;Torres, Navarro and Barreto;7876553007;Manufactura;;marleny05@example.com;3219881;False
+1cb8b1e7-0395-405a-9de7-d48cb724425a;Zapata-Orjuela;5190534864;Salud;Yolima Martínez;enrique24@example.com;+57 (+5-7) -602 845 61 85;True
+2aff30e2-8c27-4d8f-bdc2-60ea44ff0a16;Daza-Parra;045.212.899-1;Finanzas;Luis Vladimir Solano;alexis29@example.org;+57 230- 44- 88;True
+ae93b0fb-7152-4407-8d5a-a158ed606acc;CAICEDO, ESCOBAR AND BARRIOS;484.160.461-5;Energía;Alfredo Hernández;nunezjuan@example.org;3207568142;False
+cd93a4b2-afc6-4448-8caa-f888faab01fb; Ballesteros, Lara and Vargas ;522.910.732-2; Transporte ;Magnolia María Guzmán Castro;jacquelinemoreno@example.com;+57 (+5-7)3-096384526;NO
+18b7ad07-c794-41a1-b9d8-9dddaa63e295;Peña, Escobar and Ortiz;9164970169;medios de comunicación;Katherine Johanna Escobar Aguilar;paradatatiana@example.net;576 045 330162;True
+e46b931e-69ff-4da4-9c92-ff437784d7be;Córdoba Ltd;3106153722;Energía;Katerine Cecilia Peña;raquel32@example.org;+573153377460;True
+9c40825a-939e-45ed-88e0-64d95f2c741b;Rodríguez-Restrepo;0078436142;Alimentos y Bebidas;Jorge Osorio;ortegacristian@example.org;(+5 7)3 254373476;False
+ee15720e-514b-4e41-a6e6-242a2b8a0c7f;Pérez-Torres;2037638821; Manufactura ;Humberto Guzmán;ortizalexander@example.com;(+5 7)  310 191 34 43;True
+99553e2c-0133-4480-b660-28fc0c6acf45;Montenegro, Ordóñez and Córdoba;8278020586;Transporte;José Juan González;oscar64@example.net;+57 (+5-7) -309 369 99 51;SI
+3c7d7b7a-db39-4bc5-807f-ee560e951a6a;Ortega-Ramírez;3505573857; Alimentos y Bebidas ;Fernanda Blanca Barrios López;angelagaviria@example.org;+57 (+5-7)3-268118723;False
+7d2d9994-ed2d-4068-a835-8f87906b0b1b;Rojas, Arias and Gómez;0961497315;Finanzas;Viviana Luz Vargas Carvajal;mariabarrios@example.net;3007365118;False
+2e8de477-3a31-40f7-9090-672033b8080d;Torres, Escobar and Rodríguez;5578201904;Salud;Andrea Ana Daza Ardila;pabloramirez@example.com;(+5 7)3 207392013;False
+3fad4687-9355-4ac3-a51f-fc66f2d3ee3e;Pineda-Cuéllar;462.127.602-5;Turismo;;wgonzalez@example.org;+57 (+5-7)3-012616324;False
+851cc674-17a2-4c7b-a8a6-0c5e89c357bc;Guzmán, Cortés and Buitrago;995.729.893-7;tecnología;Juan Perea Marín;beatriz30@example.org;(+5 7)  314 687 19 12;False
+cd09db2e-6d12-45e8-ab70-f53493712fb5;Torres Ltd;8187692082;Manufactura;Pilar Paola Martínez Andrade;morenoluis@example.com;+57 (+5-7) -328 144 58 22;True
+d5293d1c-2755-46b2-9b0b-ae2098b12a6e;Osorio and Sons;2318297168;Salud;Eliana Cecilia Pérez;faber50@example.org;200 015 2;False
+d3182315-eff0-410e-bb32-529031a5f40a;PACHECO GROUP;1785090255; Salud ;Fredy Rosero Mora;alfonso42@example.org;018002998747;True
+7f248854-ee55-43f6-a034-fde2b4a5c126; CHÁVEZ, GARCÍA AND DÍAZ ;489.056.708-6;Medios de Comunicación;José Francisco Rodríguez Muñoz;myriamhenao@example.org;+57 57 -318- 482 66 91;True
+238c6e1c-9bfb-4140-b6fb-281e9dac8ace;Peña LLC;8355054296;Tecnología;Yaneth Gómez;nmartinez@example.org;3299879509;NO
+5afd7cd9-a411-4bd1-b8ba-66a56847fed6;Cantillo, Zuluaga and Silva;2104016481;Finanzas;Carmen Ardila;luisortega@example.org;(+5 7)  323 638 16 43;True
+9cc89800-2594-4fe6-b244-6b8733ce3e3e;Sandoval and Sons;694.289.464-2;Medios de Comunicación;Paola Guerrero;aurabonilla@example.net;573 231 441706;True
+3cbf6c76-0a78-4693-a7d4-408d82cf1c35;Garcés-Barrera;255.402.635-5;Salud;Milena Olaya Vallejo;camachoheidy@example.com;3244898803;True
+cc2e53df-8a2d-437a-aa48-157e1f5dcf57;González, Moreno and Benavides;824.527.905-0;Medios de Comunicación;Santiago Martínez;daniela33@example.com;+57 308 4951632;True
+2d373e80-47aa-489b-b501-cdfbab2279bf;LÓPEZ LTD;9787180933;Finanzas;Valentina Diana Rojas;ofranco@example.org;+57 320-119-8756;False
+5cb0e35b-d8d0-4b10-94fa-e52d4b6beb13;RESTREPO PLC;688.002.300-9;Educación;Claudia Adriana Caicedo;vargasleonor@example.com;+57 57 -324- 491 60 93;True
+d86aa690-da7f-4835-8c22-a5cd8b01bcab;Morales-Mercado;201.491.189-4;Manufactura;Alba Martha Medina;bherrera@example.net;+57  60 9 363 22 39;True
+255a2fae-c010-4d96-9f4e-045800d29347;Moreno LLC;556.114.042-8;Educación;Marcos Gómez Morales;castanogladys@example.com;(+5 7)  316 608 11 26;False
+d4322689-f93e-4960-87b0-41429a590488;Rico and Sons;0835669106;Educación;Nubia García Ballesteros;dianadiaz@example.org;+57  30 5 506 88 26;1
+de57a713-654a-4aa1-8792-f1df14dc82cf;GONZÁLEZ, PINEDA AND REYES;829.384.401-3;Tecnología;Marlon Rodríguez;vpatino@example.com;57  307  882 60 33;True
+8544f424-8ee8-4553-9229-120522e3e180; Arias, Vanegas and Martínez ;570.908.599-1;Tecnología;Jorge Díaz;foreronora@example.com;+57 306-999-6996;NO
+3a372a90-84d1-41fb-b498-9c7d7a68915a;Jiménez, Cortés and Calderón;971.842.859-6;Finanzas;Patricia Amparo Jiménez Perdomo;carlos32@example.org;+57 609- 12-3 42 66;False
+5f0a0650-df00-43fb-99ba-b07006b30ad9;Trujillo-Rodríguez;8726176072;Tecnología;Lucía Jhoana Vanegas Guzmán;camilavergara@example.com;57  308  280 40 56;SI
+f2b6fa9f-8779-4832-9b5b-0ef7fac9b6bb;GONZÁLEZ, SÁNCHEZ AND VÉLEZ;965.082.695-8;Manufactura;;wcordoba@example.com;(+57)6034308761;True
+5918b5e2-da89-4bca-b23a-89c74c3a24f5;Álvarez, Quintero and Salgado;143.468.239-4;Educación;John Gómez;roaclaudia@example.org;2086966;False
+3429dc0e-dd4e-47e0-bca6-30464a34e86f;González Group;831.139.500-1;Turismo;Cristian Ávila Castro;fernando15@example.org;+57 (+5-7)3-262839762;True
+fd2153d4-dede-468a-ab1f-123042a39521;Ariza and Sons;440.777.946-2;Salud;Edith Cardona;danielcastellanos@example.com;+576088925081;NO
+a7c5dd3d-6d60-49d2-b4a2-a410406c9c31;SALGADO-BEJARANO;9914068841;Alimentos y Bebidas;Diana Lorena López Hernández;edith23@example.com;(+5 7)  311 781 70 32;False
+bc5c6bc1-bdc9-454f-a78e-fc36cad57466;LÓPEZ, AGUDELO AND RODRÍGUEZ;136.385.277-8;Turismo;Eduardo Juan Cardona;viviana90@example.net;3095026480;1
+7a4e0604-ef4c-4dc1-977b-5f61d592de85;MEJÍA LLC;0373416781;Alimentos y Bebidas;Maira Mena Sierra;albeirogarcia@example.org;+57 579- 82- 13;True
+8f320289-6cef-4c5c-8c67-28c0cc602434;Granados, Guerrero and Córdoba;579.736.383-1;Medios de Comunicación;Luisa Orjuela Parra;angela70@example.com;018 006 617706;True
+79d8bf27-3b2b-409a-b4a3-86f031b2ab19; Moreno-Parra ;2050682122;Turismo;Eugenia Claudia Pérez Ángel;maria58example.com;603  24 6 92 18;False
+86b1940c-6b5e-44c2-aa1f-0cb8056c6fa1;Hernández, Jaramillo and Tamayo;908.984.369-9;Alimentos y Bebidas;Stiven Salas;carmenprada@example.com;+57 576-095-938694;1
+12fbc68e-5709-49bf-8029-94d50df93e10;Hernández, Nieto and Quintero;9881145788;Tecnología;Yeferson Germán Gómez Hoyos;mosqueragloria@example.net;(+57)3176738209;False
+8e42fc35-07ca-4fc6-88e4-f43df54be607;Castro-Patiño;917.798.768-2;Energía;Alfonso Pinzón Sánchez;angelicaescobar@example.com;+57 576-046-858062;False
+53e433f2-9b50-40a0-bfbd-c5afb15958c9;VÉLEZ INC;5669579001;Salud;Isabel Ríos Patiño;hernando44@example.org;+57 (+5-7) -326 796 32 59;False
+bb2a2650-9a1f-41a8-942e-e6cfcbb53b90;Díaz-Vargas;2894633891;Alimentos y Bebidas;Diego Fernando Duque;rosa57@example.org;(+57)3162926933;True
+9c04c54e-5086-43ff-8bb1-9f7be398c650;Contreras-Ocampo;5138186550;Salud;;leonalfonso@example.net;314 303 4918;False
+e3627161-d8f7-4f5b-b86f-2632050d0dc5;García, Roa and Caro;972.038.593-4; Medios de Comunicación ;María Morales;ualvarez@example.com;(+57)3215531325;True
+958589a3-a1ae-457e-922c-a51f5f1bb021;Rivas, Figueroa and Acosta;8136750094;Salud;Doris Franco González;gomezsonia@example.com;+573198198780;True
+f23d1cfc-fc66-453b-a985-38745b9d5fb1;Ardila, Hernández and Acosta;452.388.856-2;Manufactura;Nataly Velásquez Barreto;uguerreroexample.net;+57  32 6 787 44 22;False
+53f70071-4398-430f-a67b-24099359ab72;Toro-Palacios;485.965.594-2;Energía;Lucía Ávila González;guerrayadira@example.com;606 420 0024;NO
+59b3b9cb-5403-4772-95bd-46a79ef8446e;Jaimes, Moreno and Bustos;215.513.055-7;alimentos y bebidas;Beatriz Barrera;lcortes@example.net;+57 607- 74-4 48 89;False
+9d073ec9-0e97-4561-97e7-390004361940;Beltrán, Becerra and Sánchez;3677462025;Salud;Matilde Gutiérrez Quiroga;silvaricardo@example.org;018001231239;True
+dbdc5456-2ddb-48a2-bbd7-765dc9f79bdf;CUÉLLAR LTD;049.106.018-3;Turismo;Fernando Pérez Becerra;iherreraexample.org;326  81 7 22 57;True
+53e433f2-9b50-40a0-bfbd-c5afb15958c9;VÉLEZ INC;5669579001;Salud;Isabel Ríos Patiño;hernando44@example.org;+57 (+5-7) -326 796 32 59;False
+8f320289-6cef-4c5c-8c67-28c0cc602434;Granados, Guerrero and Córdoba;579.736.383-1;Medios de Comunicación;Luisa Orjuela Parra;angela70@example.com;018 006 617706;True
+9d073ec9-0e97-4561-97e7-390004361940;Beltrán, Becerra and Sánchez;3677462025;Salud;Matilde Gutiérrez Quiroga;silvaricardo@example.org;018001231239;True
+4fa9e53f-e9f9-42fd-9014-078238bbe04d;Pérez Inc;471.372.711-7;Salud;Mario Evelio Gaitán;carlos85@example.net;+57 +57-318-2984933;False
+29e02119-30dd-4582-beb0-eb366d2a5968;Duque-Giraldo;3794577278;Energía;David Jorge Ariza;kanaya@example.com;609 464 2076;True
+ed648193-0d34-41a1-94ee-899750168dcc;López-Carrillo;295.927.282-7; Manufactura ;Mercedes Rubio;arevalomercedes@example.com;+57 608- 45-2 98 21;False
+402cb847-0437-4a1a-afcd-4e0ad976fce7;Acevedo-García;146.147.683-4;Finanzas;Marleny López Galeano;franklin42@example.org;3167782659;1
+d5293d1c-2755-46b2-9b0b-ae2098b12a6e;Osorio and Sons;2318297168;Salud;Eliana Cecilia Pérez;faber50@example.org;200 015 2;False
+17afc498-5c3e-4d72-95b4-69c9e7cf46d5;BARRETO LLC;278.207.979-9;Alimentos y Bebidas;Wilson Ortega Vargas;alberto76@example.com;576 071 381664;1
+f6e555a0-f9ee-4278-af27-9985a2a2301c; Romero, Hernández and Flórez ;4991537038;Educación;Nelly Castro Zapata;esthertorres@example.net;(+5 7)3 020430977;NO
+f2cc21f5-7f86-485e-a852-90377d06d8b2;Rincón-Camacho;6810390339;Transporte;José Hernando Murillo Arias;catalinasanchez@example.org;3148586239;NO
+3c94dcab-1a69-4268-b60b-978ca3bfa383;Vásquez, Pérez and Rivera;5339055044;Medios de Comunicación;Judith Camila Cárdenas;iromeroexample.com;(+57)3251276528;False
+ab300687-dc7d-45da-86e0-fcd762133b32; Quintero-Jiménez ;084.245.607-5;Finanzas;Leonardo Hurtado;miguel86@example.org;+57 573-018-122764;False
+1b05ccfb-6e8f-4bae-a795-3b49f67365b3;Ortiz-Narváez;7123166007;Alimentos y Bebidas;Albeiro Peña Cardozo;hoyosjean@example.com;+57 317-340-4337;True
+c6986cda-1b4f-4275-bef4-626672f0915d;CARVAJAL, OSORIO AND CABRERA;263.748.453-9;Tecnología;Carlos Montoya Carrillo;nelson90@example.net;+57 319- 11-9 18 62;True

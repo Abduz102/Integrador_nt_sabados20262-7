@@ -46,3 +46,64 @@ limpiar_retos()
 
 print("\n************ CONSULTAS DE RETO ************")
 consultas_retos()
+
+# ============================================================
+#                      TABLA EMPRESAS
+# ============================================================
+from notebook.simulaciones.simular_empresa import generar_empresas
+from notebook.exportaciones.exportar_empresa import exportar_empresas_crudas, exportar_empresas_limpias
+from notebook.limpiezas.limpiar_empresa import limpiar_empresas, resumen_nulos as resumen_nulos_empresas
+
+#1. Activando la simulacion
+print("\n************ SIMULACIONES DE EMPRESA ************")
+empresas_sucias_df=generar_empresas(300)
+
+#2. Exportando los datos crudos
+print("************ EXPORTACIONES DE EMPRESA ************")
+rutas_crudas=exportar_empresas_crudas(empresas_sucias_df)
+for ruta in rutas_crudas:
+    print("Crudo:",ruta)
+
+#3. Limpiando los datos
+print("************ LIMPIEZA DE EMPRESA ************")
+empresas_limpias_df=limpiar_empresas(empresas_sucias_df)
+print(f"Filas antes: {len(empresas_sucias_df)} | Filas despues: {len(empresas_limpias_df)}")
+print("Nulos por columna despues de limpiar:")
+print(resumen_nulos_empresas(empresas_limpias_df))
+
+#4. Exportando los datos limpios
+print("************ EXPORTACIONES DE EMPRESA LIMPIAS ************")
+rutas_limpias=exportar_empresas_limpias(empresas_limpias_df)
+for ruta in rutas_limpias:
+    print("Limpio:",ruta)
+
+
+# ============================================================
+#                      TABLA CATEGORIAS
+# ============================================================
+from notebook.simulaciones.simular_categoria import generar_categorias
+from notebook.exportaciones.exportar_categoria import exportar_categorias_crudas, exportar_categorias_limpias
+from notebook.limpiezas.limpiar_categoria import limpiar_categorias, resumen_nulos as resumen_nulos_categorias
+
+#1. Activando la simulacion
+print("\n************ SIMULACIONES DE CATEGORIA ************")
+categorias_sucias_df=generar_categorias()
+
+#2. Exportando los datos crudos
+print("************ EXPORTACIONES DE CATEGORIA ************")
+rutas_crudas=exportar_categorias_crudas(categorias_sucias_df)
+for ruta in rutas_crudas:
+    print("Crudo:",ruta)
+
+#3. Limpiando los datos
+print("************ LIMPIEZA DE CATEGORIA ************")
+categorias_limpias_df=limpiar_categorias(categorias_sucias_df)
+print(f"Filas antes: {len(categorias_sucias_df)} | Filas despues: {len(categorias_limpias_df)}")
+print("Nulos por columna despues de limpiar:")
+print(resumen_nulos_categorias(categorias_limpias_df))
+
+#4. Exportando los datos limpios
+print("************ EXPORTACIONES DE CATEGORIA LIMPIAS ************")
+rutas_limpias=exportar_categorias_limpias(categorias_limpias_df)
+for ruta in rutas_limpias:
+    print("Limpio:",ruta)

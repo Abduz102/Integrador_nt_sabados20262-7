@@ -40,7 +40,7 @@ def generar_datos(numero_filas=300):
     for _ in range(numero_filas):
         empresas.append({
             "id": str(uuid.uuid4()),
-            "nombre": falsito.name(),
+            "nombre": falsito.company(),
             "nit": falsito.numerify(text="##########"),
             "sector": random.choice(sectores),
             "contacto": falsito.name(),

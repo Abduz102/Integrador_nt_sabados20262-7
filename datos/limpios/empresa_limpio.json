@@ -1,0 +1,2912 @@
+[
+  {
+    "id":"6d8c90ad-5600-4f9a-bf4e-3cab81b9dba4",
+    "nombre":"Uribe, González and Moreno",
+    "nit":"6391025743",
+    "sector":null,
+    "contacto":null,
+    "correo":"vmena@example.org",
+    "telefono":"3050864035",
+    "activa":true
+  },
+  {
+    "id":"3613320e-39c0-4cf7-b4b9-6ea6ac1e6c53",
+    "nombre":"Vargas-Montoya",
+    "nit":"3396852701",
+    "sector":"Educación",
+    "contacto":"Andrés Juan Acevedo Hernández",
+    "correo":"carmenperez@example.net",
+    "telefono":"3038167423",
+    "activa":false
+  },
+  {
+    "id":"e8cf65b3-69de-4324-ae9e-2b38d4ecdc2a",
+    "nombre":"Salazar Plc",
+    "nit":"3449734715",
+    "sector":"Salud",
+    "contacto":"Eduardo Ortega Salazar",
+    "correo":"yochoa@example.com",
+    "telefono":"6039661498",
+    "activa":true
+  },
+  {
+    "id":"68cd8a64-7870-4057-8538-c4feef948bbb",
+    "nombre":"Díaz, Flórez and Suárez",
+    "nit":"4689715273",
+    "sector":null,
+    "contacto":"Yineth Rodríguez Prieto",
+    "correo":"lisbeth66@example.net",
+    "telefono":"3167491601",
+    "activa":false
+  },
+  {
+    "id":"55bc9521-5f91-4be8-9ca1-c6d2a6244527",
+    "nombre":"Montenegro-Pérez",
+    "nit":"6458750663",
+    "sector":"Energía",
+    "contacto":"Daniela Miryam Morales Toro",
+    "correo":"benavidesjorge@example.com",
+    "telefono":"3224399201",
+    "activa":true
+  },
+  {
+    "id":"d124033d-53d1-4f2e-a3e6-29cb458e2f05",
+    "nombre":"Franco Group",
+    "nit":"6918362644",
+    "sector":"Salud",
+    "contacto":"William Ardila Gallego",
+    "correo":"gonzalezcarlos@example.com",
+    "telefono":"6081436402",
+    "activa":true
+  },
+  {
+    "id":"295fdea6-6d4f-452a-927d-45dd50811443",
+    "nombre":"García Ltd",
+    "nit":"6864622522",
+    "sector":"Salud",
+    "contacto":"Olga Tatiana González Ospina",
+    "correo":"rosamartinez@example.org",
+    "telefono":"3046791214",
+    "activa":false
+  },
+  {
+    "id":"115d3c6e-5ffa-4a32-ae1f-28ea6688f7bc",
+    "nombre":"Rivera Llc",
+    "nit":"1509377100",
+    "sector":null,
+    "contacto":"Germán Rodríguez",
+    "correo":"lopezjose@example.org",
+    "telefono":"3198477596",
+    "activa":true
+  },
+  {
+    "id":"54c895aa-1080-4551-9fd1-c51f10fd5e65",
+    "nombre":"Arias-Naranjo",
+    "nit":"5356690551",
+    "sector":null,
+    "contacto":"Ángela Benavides",
+    "correo":"mariagonzalez@example.net",
+    "telefono":"3035797863",
+    "activa":true
+  },
+  {
+    "id":"a4e905b7-f33d-4db4-9770-503be0568062",
+    "nombre":"Rengifo LLC",
+    "nit":"0505739769",
+    "sector":"Transporte",
+    "contacto":"Carolina Yuly Ibarra",
+    "correo":"sospino@example.org",
+    "telefono":"3149328980",
+    "activa":false
+  },
+  {
+    "id":"ec3edc10-5807-4657-be0e-b635706fee81",
+    "nombre":"Zapata Inc",
+    "nit":"4872717833",
+    "sector":"Transporte",
+    "contacto":"Andrea Zoraida Bermúdez López",
+    "correo":"perezadrian@example.com",
+    "telefono":"3034712871",
+    "activa":true
+  },
+  {
+    "id":"1d0c8b08-d32e-437d-8ee5-0948364a403b",
+    "nombre":"Quintero, Torres And Escobar",
+    "nit":"9156686334",
+    "sector":"Turismo",
+    "contacto":null,
+    "correo":"mauriciogonzalez@example.com",
+    "telefono":"6094569040",
+    "activa":false
+  },
+  {
+    "id":"c310095c-aa09-440d-84bb-f1773725d841",
+    "nombre":"Puentes-Ruiz",
+    "nit":"5289931608",
+    "sector":"Tecnología",
+    "contacto":"Alexander Nicolás Jiménez Torres",
+    "correo":"ssanchez@example.org",
+    "telefono":"6084954814",
+    "activa":false
+  },
+  {
+    "id":"ab14817c-ee65-42a6-ac31-a7b692e72714",
+    "nombre":"Jiménez-Parada",
+    "nit":"0523302764",
+    "sector":null,
+    "contacto":"Aleida Vásquez Quintero",
+    "correo":"wceron@example.com",
+    "telefono":"3118443861",
+    "activa":true
+  },
+  {
+    "id":"39b786b3-8061-494e-aef8-e193a4a845e4",
+    "nombre":"Valencia PLC",
+    "nit":"0472927742",
+    "sector":"Energía",
+    "contacto":"Sandra Katherine Galvis Rodríguez",
+    "correo":"buitragoelmer@example.org",
+    "telefono":"3162015720",
+    "activa":false
+  },
+  {
+    "id":"59f0dcc4-8165-4864-9e01-506e1bca3252",
+    "nombre":"Puentes Ltd",
+    "nit":"5962630136",
+    "sector":null,
+    "contacto":"Jesús Orlando Pérez Sarmiento",
+    "correo":"castanowilson@example.net",
+    "telefono":"3147501111",
+    "activa":true
+  },
+  {
+    "id":"e8a89540-6024-4e43-9cae-6d21f7ca5498",
+    "nombre":"Bedoya-Gamboa",
+    "nit":"3099974192",
+    "sector":"Energía",
+    "contacto":"Jairo Franco Mejía",
+    "correo":"dianamartinez@example.net",
+    "telefono":"3060688871",
+    "activa":true
+  },
+  {
+    "id":"66a84e5e-0be8-460c-8bfb-f97700520bbe",
+    "nombre":"Velasco, Montoya and Figueroa",
+    "nit":"1312920875",
+    "sector":"Turismo",
+    "contacto":"María Alexandra Arango",
+    "correo":"londonohernando@example.org",
+    "telefono":"7184582",
+    "activa":false
+  },
+  {
+    "id":"0b1021ba-00a0-4c75-95b5-1477bab16fa5",
+    "nombre":"Rodríguez, Suárez and Monroy",
+    "nit":"8487297585",
+    "sector":null,
+    "contacto":"Nubia Vanessa Gómez Gómez",
+    "correo":"karenroa@example.org",
+    "telefono":"018003954296",
+    "activa":false
+  },
+  {
+    "id":"09e38864-a70e-4667-b2b8-dbd77e46d341",
+    "nombre":"Caicedo LLC",
+    "nit":"6267146283",
+    "sector":null,
+    "contacto":"Eugenia Marcela Barrera",
+    "correo":"alejandrolondono@example.net",
+    "telefono":"3292625660",
+    "activa":false
+  },
+  {
+    "id":"ab4a13c9-4dac-412a-96c1-859edc72860e",
+    "nombre":"Vargas, Ortiz and Contreras",
+    "nit":"8615155423",
+    "sector":null,
+    "contacto":"José Rivera",
+    "correo":"myriamlopez@example.org",
+    "telefono":"3084971859",
+    "activa":false
+  },
+  {
+    "id":"4bdf50e7-c166-4898-a1ab-88998ab3dff7",
+    "nombre":"Caicedo-Calderón",
+    "nit":"0256258896",
+    "sector":"Transporte",
+    "contacto":"Orlando Antonio Pacheco Amaya",
+    "correo":"isabelospina@example.com",
+    "telefono":"6086539672",
+    "activa":true
+  },
+  {
+    "id":"76db097c-71f4-43a2-8aae-194f12cc26cc",
+    "nombre":"Sierra-Castro",
+    "nit":"6834146511",
+    "sector":"Salud",
+    "contacto":"Dora Zoraida Pérez",
+    "correo":"garciaalexandra@example.com",
+    "telefono":"9682778",
+    "activa":false
+  },
+  {
+    "id":"832b47b8-bb95-40f6-8bed-115f0b64fc67",
+    "nombre":"González, Rodríguez and Ramírez",
+    "nit":"0685389097",
+    "sector":null,
+    "contacto":"Gladys Nieto Guzmán",
+    "correo":"carolinamorales@example.org",
+    "telefono":"3250676251",
+    "activa":true
+  },
+  {
+    "id":"c90a1a1c-4180-40e3-8088-9caba3782b2c",
+    "nombre":"Caro-Vargas",
+    "nit":"8144744309",
+    "sector":null,
+    "contacto":"Alberto Suárez Saavedra",
+    "correo":null,
+    "telefono":"6062509754",
+    "activa":false
+  },
+  {
+    "id":"e461922b-846b-4dc2-8425-ac5489233a70",
+    "nombre":"Romero Ltd",
+    "nit":"2650167318",
+    "sector":"Transporte",
+    "contacto":"Adriana Barreto Rodríguez",
+    "correo":null,
+    "telefono":"3162841772",
+    "activa":true
+  },
+  {
+    "id":"f1e235a6-c9e3-46c7-a99d-cf0df14e07ab",
+    "nombre":"Romero Group",
+    "nit":"0531340266",
+    "sector":null,
+    "contacto":null,
+    "correo":"rolaya@example.org",
+    "telefono":"3278725686",
+    "activa":false
+  },
+  {
+    "id":"f32c9206-ce19-43fe-876f-9c1f0d6bcaac",
+    "nombre":"González Inc",
+    "nit":"0225803056",
+    "sector":"Educación",
+    "contacto":"Marina Gutiérrez",
+    "correo":"bgarcia@example.org",
+    "telefono":"6047823414",
+    "activa":false
+  },
+  {
+    "id":"ce2522cd-594d-408b-8408-258cdb486e6f",
+    "nombre":"Ortega Inc",
+    "nit":"8923923126",
+    "sector":"Finanzas",
+    "contacto":"Marcela Ramírez",
+    "correo":"jennifergarzon@example.org",
+    "telefono":"6067668433",
+    "activa":false
+  },
+  {
+    "id":"fa62ef86-c212-49a3-bec5-c6651795107e",
+    "nombre":"Martínez-Osorio",
+    "nit":"0414545635",
+    "sector":"Manufactura",
+    "contacto":"Andrea Rodríguez",
+    "correo":"laura74@example.net",
+    "telefono":"6052624755",
+    "activa":false
+  },
+  {
+    "id":"6e13a48f-91f7-4338-b984-3b3a38a4bead",
+    "nombre":"Camacho Ltd",
+    "nit":"8255598953",
+    "sector":"Manufactura",
+    "contacto":"Alberto Flórez",
+    "correo":"hernandezjairo@example.org",
+    "telefono":"6096933711",
+    "activa":false
+  },
+  {
+    "id":"0c17791f-a759-4025-bae6-7054177d4c1a",
+    "nombre":"Bonilla-Cerón",
+    "nit":"3820236848",
+    "sector":"Turismo",
+    "contacto":"Michael Daniel Becerra",
+    "correo":"amartinez@example.net",
+    "telefono":"3202942409",
+    "activa":true
+  },
+  {
+    "id":"241921d5-d450-48e7-8544-6a9ae627aa1c",
+    "nombre":"Alzate Ltd",
+    "nit":"3678812786",
+    "sector":"Turismo",
+    "contacto":"Diego Ortiz Díaz",
+    "correo":"carlosvega@example.org",
+    "telefono":"3278844344",
+    "activa":true
+  },
+  {
+    "id":"c3a79940-6377-4a10-aa99-a9186ca0a804",
+    "nombre":"González, Torres and Lozano",
+    "nit":"4024240338",
+    "sector":"Salud",
+    "contacto":"María Carolina Calderón",
+    "correo":"camila84@example.net",
+    "telefono":"6064694500",
+    "activa":true
+  },
+  {
+    "id":"4e55b256-ca28-4dd0-b6b8-767c12f71d85",
+    "nombre":"Paz, Díaz and Domínguez",
+    "nit":"8916498373",
+    "sector":"Energía",
+    "contacto":"Fernando Dario Arévalo",
+    "correo":"osanchez@example.net",
+    "telefono":"3252717272",
+    "activa":false
+  },
+  {
+    "id":"34c6812b-bf05-413f-b33a-5cf41c6a02da",
+    "nombre":"Díaz Group",
+    "nit":"2404226931",
+    "sector":"Turismo",
+    "contacto":"María Vargas Chávez",
+    "correo":"hlopez@example.org",
+    "telefono":"1916601",
+    "activa":true
+  },
+  {
+    "id":"8e1543b9-c73a-426f-a17e-164ffa74f245",
+    "nombre":"Betancur, Hernández and Fuentes",
+    "nit":"4290018513",
+    "sector":null,
+    "contacto":"Daniela Londoño Marín",
+    "correo":"vivianaacosta@example.org",
+    "telefono":"6029848100",
+    "activa":false
+  },
+  {
+    "id":"ecc5f99f-2673-4312-bf6e-28a9e2284089",
+    "nombre":"López-Murcia",
+    "nit":"6203036625",
+    "sector":null,
+    "contacto":"David Cuéllar",
+    "correo":"tpacheco@example.org",
+    "telefono":"3221314519",
+    "activa":true
+  },
+  {
+    "id":"84ca76f5-d92b-4f1b-9e48-b0b4cedc9b43",
+    "nombre":"González-Salgado",
+    "nit":"1092268592",
+    "sector":"Salud",
+    "contacto":"Carlos Soto Suárez",
+    "correo":null,
+    "telefono":"3141022526",
+    "activa":false
+  },
+  {
+    "id":"fe6e570a-84a5-4e2e-b12e-e684e68d9adf",
+    "nombre":"Camargo-Serna",
+    "nit":"7119642152",
+    "sector":"Finanzas",
+    "contacto":"Jenny Romero Zapata",
+    "correo":"aaguirre@example.net",
+    "telefono":"3123668788",
+    "activa":false
+  },
+  {
+    "id":"c9b9d20c-0510-44db-8916-1919fd748966",
+    "nombre":"Lozano-Pinto",
+    "nit":"6196893135",
+    "sector":"Finanzas",
+    "contacto":"Diana Gaitán",
+    "correo":"luis21@example.org",
+    "telefono":"3152472863",
+    "activa":false
+  },
+  {
+    "id":"fadfa9f3-7903-442c-b749-bfba8c03a201",
+    "nombre":"Niño Inc",
+    "nit":"2126065019",
+    "sector":null,
+    "contacto":"Daniela Stella Sánchez",
+    "correo":"doragarcia@example.org",
+    "telefono":"9962272",
+    "activa":false
+  },
+  {
+    "id":"07d1bdc7-d1fd-4df0-88af-487cfa8a68f9",
+    "nombre":"Núñez, Correa and Camargo",
+    "nit":"7041200928",
+    "sector":null,
+    "contacto":null,
+    "correo":"qcortes@example.net",
+    "telefono":"3243624186",
+    "activa":false
+  },
+  {
+    "id":"6717b5cf-3563-49a1-ba46-2eb395ee17bb",
+    "nombre":"Villamizar Group",
+    "nit":"9036289177",
+    "sector":"Energía",
+    "contacto":"Augusto Diego Flórez",
+    "correo":"arenasjorge@example.org",
+    "telefono":"3011159503",
+    "activa":false
+  },
+  {
+    "id":"aebc4a00-67eb-456b-bd9d-ef53a938d76a",
+    "nombre":"Pérez-López",
+    "nit":"3904383034",
+    "sector":"Transporte",
+    "contacto":"Anyi Amparo Londoño",
+    "correo":"ugomez@example.org",
+    "telefono":"3105468356",
+    "activa":false
+  },
+  {
+    "id":"55f86cf5-67df-4480-9e8d-b74c850a05e2",
+    "nombre":"Mosquera, Hernández And Gil",
+    "nit":"5681820967",
+    "sector":"Manufactura",
+    "contacto":"Milena Sánchez",
+    "correo":"ogarcia@example.org",
+    "telefono":"3032288985",
+    "activa":false
+  },
+  {
+    "id":"4686a63d-73d4-4c5e-a320-69b5167786a9",
+    "nombre":"Serna-Herrera",
+    "nit":"5960633991",
+    "sector":"Manufactura",
+    "contacto":null,
+    "correo":"sanchezalfredo@example.net",
+    "telefono":"3717524",
+    "activa":true
+  },
+  {
+    "id":"4dc18481-64a5-4d33-b652-a0b8e4d490ae",
+    "nombre":"Castro LLC",
+    "nit":"5112747472",
+    "sector":"Salud",
+    "contacto":"Nayibe Olga Morales",
+    "correo":"yenny92@example.com",
+    "telefono":"3189551687",
+    "activa":true
+  },
+  {
+    "id":"28d4d0ab-18e2-4def-9faf-4e18a554f0fc",
+    "nombre":"Monsalve-Arroyo",
+    "nit":"0903802146",
+    "sector":"Transporte",
+    "contacto":"Amparo Márquez Torres",
+    "correo":"wcamacho@example.com",
+    "telefono":"3287112166",
+    "activa":true
+  },
+  {
+    "id":"ac5ded48-6463-4d3a-a26f-f6c57e5224d4",
+    "nombre":"Castillo Inc",
+    "nit":"7660538444",
+    "sector":"Turismo",
+    "contacto":"Emilia Sánchez Rojas",
+    "correo":"ojedaivan@example.org",
+    "telefono":"3167303064",
+    "activa":true
+  },
+  {
+    "id":"402cb847-0437-4a1a-afcd-4e0ad976fce7",
+    "nombre":"Acevedo-García",
+    "nit":"1461476834",
+    "sector":"Finanzas",
+    "contacto":"Marleny López Galeano",
+    "correo":"franklin42@example.org",
+    "telefono":"3167782659",
+    "activa":true
+  },
+  {
+    "id":"980b4254-2608-45ee-908e-87d03f72b96b",
+    "nombre":"Bravo-Londoño",
+    "nit":"9319925502",
+    "sector":null,
+    "contacto":"Reinaldo César Ruiz Mercado",
+    "correo":"umunoz@example.org",
+    "telefono":"3227910336",
+    "activa":false
+  },
+  {
+    "id":"3c94dcab-1a69-4268-b60b-978ca3bfa383",
+    "nombre":"Vásquez, Pérez and Rivera",
+    "nit":"5339055044",
+    "sector":null,
+    "contacto":"Judith Camila Cárdenas",
+    "correo":null,
+    "telefono":"3251276528",
+    "activa":false
+  },
+  {
+    "id":"d33babe8-2a83-4fcd-b74d-03be59b7073d",
+    "nombre":"Pérez, Mejía And Gutiérrez",
+    "nit":"6491111096",
+    "sector":"Salud",
+    "contacto":null,
+    "correo":"barrerajose@example.org",
+    "telefono":"3163378613",
+    "activa":true
+  },
+  {
+    "id":"a465cccb-6440-446b-a865-ce9806f9e1c5",
+    "nombre":"Olaya Group",
+    "nit":"3863960962",
+    "sector":"Transporte",
+    "contacto":"Campo Pérez Rentería",
+    "correo":"francylopez@example.org",
+    "telefono":"3219648253",
+    "activa":true
+  },
+  {
+    "id":"11dcc04d-9a5d-4a62-88eb-d99a962dc32f",
+    "nombre":"López Group",
+    "nit":"0920981960",
+    "sector":"Manufactura",
+    "contacto":"Nathalia Acevedo Castaño",
+    "correo":"danielaburbano@example.com",
+    "telefono":"3083640412",
+    "activa":true
+  },
+  {
+    "id":"48346660-0c14-42c8-9c99-a09d81ba1376",
+    "nombre":"Rodríguez, Bustamante And Gaviria",
+    "nit":"1791124421",
+    "sector":"Turismo",
+    "contacto":"Esther Gloria Velasco",
+    "correo":"ylopez@example.org",
+    "telefono":"3217136657",
+    "activa":true
+  },
+  {
+    "id":"47843aed-3e28-4ef9-9c0d-5e85f3adc7d8",
+    "nombre":"Díaz Inc",
+    "nit":"2990155799",
+    "sector":"Manufactura",
+    "contacto":"Ana Villamizar",
+    "correo":"ramirezmaria@example.org",
+    "telefono":"3282351305",
+    "activa":true
+  },
+  {
+    "id":"6e4095b8-a81e-4ec3-97a3-ad9c55cab056",
+    "nombre":"Torres Ltd",
+    "nit":"2447315847",
+    "sector":"Tecnología",
+    "contacto":"Óscar Franco Caballero Vargas",
+    "correo":"eduardomurcia@example.com",
+    "telefono":"3119942376",
+    "activa":false
+  },
+  {
+    "id":"f6da265f-0c2b-4d75-b3be-c9432ac4902e",
+    "nombre":"Salazar-Cano",
+    "nit":"5919663955",
+    "sector":"Educación",
+    "contacto":"Lorena Hilda Bustos",
+    "correo":"juan49@example.net",
+    "telefono":"3256012562",
+    "activa":false
+  },
+  {
+    "id":"564622ae-75f1-4211-9d30-63633c37a8eb",
+    "nombre":"Vargas-Rojas",
+    "nit":"2650622923",
+    "sector":"Salud",
+    "contacto":"Julián Alexander Moreno Martínez",
+    "correo":"alberto83@example.org",
+    "telefono":"018004919665",
+    "activa":true
+  },
+  {
+    "id":"a05752da-c34b-44f4-a58b-dd97aafd40c1",
+    "nombre":"Ramírez-Martínez",
+    "nit":"7704611729",
+    "sector":null,
+    "contacto":"William David Rodríguez",
+    "correo":"francoesteban@example.org",
+    "telefono":"3242608805",
+    "activa":false
+  },
+  {
+    "id":"81589a7c-b07b-4238-a87c-4473d8a79399",
+    "nombre":"Rodríguez, Correa and Salcedo",
+    "nit":"6445561857",
+    "sector":null,
+    "contacto":"Elena Benavides",
+    "correo":"princon@example.org",
+    "telefono":"3191030021",
+    "activa":false
+  },
+  {
+    "id":"d7d9e975-8bbe-465b-b2b4-7adfaed1ba1f",
+    "nombre":"Prieto-Vanegas",
+    "nit":"3213580040",
+    "sector":null,
+    "contacto":"María Lucía Ortiz",
+    "correo":"kortiz@example.org",
+    "telefono":"3212529671",
+    "activa":false
+  },
+  {
+    "id":"77affcde-7cb6-4b68-b694-0f44767ce2ad",
+    "nombre":"Silva, Escobar and Durán",
+    "nit":"4573144158",
+    "sector":"Educación",
+    "contacto":"Sofía Aura Rojas García",
+    "correo":"amartinez@example.net",
+    "telefono":"3076371539",
+    "activa":true
+  },
+  {
+    "id":"280b9f14-4a8d-4b57-a571-85269e01afe5",
+    "nombre":"Molina, Álvarez and Barbosa",
+    "nit":"7281235679",
+    "sector":"Manufactura",
+    "contacto":"Sara Diana Castro Pérez",
+    "correo":"rodolfo91@example.org",
+    "telefono":"3211307240",
+    "activa":false
+  },
+  {
+    "id":"0563ab06-35a3-489c-a5fa-35cbc07da9e6",
+    "nombre":"Durán-Cárdenas",
+    "nit":"4181563268",
+    "sector":"Salud",
+    "contacto":null,
+    "correo":"martineznidia@example.com",
+    "telefono":"3043629489",
+    "activa":true
+  },
+  {
+    "id":"080f1150-19de-40f9-b376-caed28d68fad",
+    "nombre":"Delgado-González",
+    "nit":"0313100943",
+    "sector":"Energía",
+    "contacto":"Mónica Marcela Nieto",
+    "correo":"ggiraldo@example.org",
+    "telefono":"3073235494",
+    "activa":false
+  },
+  {
+    "id":"a60ae3a5-4c2f-4679-a028-5948731493cf",
+    "nombre":"Rodríguez, Díaz and Gamboa",
+    "nit":"9743251225",
+    "sector":null,
+    "contacto":"Carlos José Ortega Quintero",
+    "correo":"aldemarrangel@example.org",
+    "telefono":"4957907",
+    "activa":true
+  },
+  {
+    "id":"ae77e364-e413-4796-adf7-0eb41dfb8f08",
+    "nombre":"González-Figueroa",
+    "nit":"9438822114",
+    "sector":"Educación",
+    "contacto":null,
+    "correo":"alexander45@example.com",
+    "telefono":"2545897",
+    "activa":true
+  },
+  {
+    "id":"c48a8aaa-b28e-4b37-9fbf-34f614a00123",
+    "nombre":"Duque-Padilla",
+    "nit":"0263257039",
+    "sector":null,
+    "contacto":"Manuel Sarmiento Ramírez",
+    "correo":"rhenao@example.net",
+    "telefono":"018007824556",
+    "activa":false
+  },
+  {
+    "id":"3687501d-5dc0-4ad8-a421-b68af7cc6341",
+    "nombre":"Guerrero, Portilla and Álvarez",
+    "nit":"0985916795",
+    "sector":"Salud",
+    "contacto":"Luis Rodríguez",
+    "correo":"licethsanchez@example.com",
+    "telefono":"018002474140",
+    "activa":true
+  },
+  {
+    "id":"9efc8969-f69a-4728-919b-fe3c0ae28d54",
+    "nombre":"Gómez-Gutiérrez",
+    "nit":"9107406500",
+    "sector":"Salud",
+    "contacto":"Carlos Cuéllar",
+    "correo":"leonelamaya@example.org",
+    "telefono":"3069143075",
+    "activa":false
+  },
+  {
+    "id":"c88c25a6-f07f-41c9-b79d-bcf8580a3395",
+    "nombre":"Guerra Ltd",
+    "nit":"6661449429",
+    "sector":null,
+    "contacto":"Pedro Ruiz Escobar",
+    "correo":"tatianaguerrero@example.org",
+    "telefono":"3141497826",
+    "activa":true
+  },
+  {
+    "id":"2116a5b8-3469-4181-8f59-0a21c19455bf",
+    "nombre":"López-Silva",
+    "nit":"5857567667",
+    "sector":"Turismo",
+    "contacto":"Aida Rodríguez",
+    "correo":"ilopez@example.net",
+    "telefono":"3139852989",
+    "activa":false
+  },
+  {
+    "id":"d1fbd91d-1f1c-4283-81f0-e20c73aadd21",
+    "nombre":"Martínez-Meza",
+    "nit":"2607870104",
+    "sector":null,
+    "contacto":"Claudia Luz Gutiérrez",
+    "correo":"dbarrios@example.org",
+    "telefono":"3203828723",
+    "activa":false
+  },
+  {
+    "id":"d00000c0-2c0a-4acf-8c6c-dad2e60b00a6",
+    "nombre":"Bedoya, Sánchez and Méndez",
+    "nit":"0793110291",
+    "sector":"Manufactura",
+    "contacto":"Paola Luz Rodríguez",
+    "correo":"hgiraldo@example.com",
+    "telefono":"3172384979",
+    "activa":false
+  },
+  {
+    "id":"9ac26fe6-c2aa-4d8d-ada2-18f0bbf5b163",
+    "nombre":"Mejía Ltd",
+    "nit":"0223288377",
+    "sector":"Manufactura",
+    "contacto":null,
+    "correo":"rmorales@example.com",
+    "telefono":"3117662047",
+    "activa":true
+  },
+  {
+    "id":"52ae5eb2-fc79-4ca7-8e04-7a078b1f2008",
+    "nombre":"Ospina Inc",
+    "nit":"9409705277",
+    "sector":null,
+    "contacto":"José Sánchez",
+    "correo":"doristoro@example.com",
+    "telefono":"3212259572",
+    "activa":true
+  },
+  {
+    "id":"2fad6494-aa05-4f1d-8aba-1498b6314f2c",
+    "nombre":"Serna-Navarro",
+    "nit":"6176792988",
+    "sector":"Finanzas",
+    "contacto":"Carlos Valencia",
+    "correo":"juan61@example.org",
+    "telefono":"6064231177",
+    "activa":true
+  },
+  {
+    "id":"5fe3aa91-d752-4683-92be-bbc3a85bbf47",
+    "nombre":"Rosero, López and Rangel",
+    "nit":"6610941017",
+    "sector":"Manufactura",
+    "contacto":"Ricardo Jonathan Salgado",
+    "correo":"sandra76@example.org",
+    "telefono":"018003347743",
+    "activa":true
+  },
+  {
+    "id":"fa5aaba2-44cd-4119-82bf-2bab03db9f2a",
+    "nombre":"Villamizar Group",
+    "nit":"8319013020",
+    "sector":"Educación",
+    "contacto":"Sergio Julián Leal",
+    "correo":"rosa87@example.org",
+    "telefono":"3097855982",
+    "activa":true
+  },
+  {
+    "id":"153960c9-b590-440a-bbc3-152c45766f39",
+    "nombre":"Mendoza Ltd",
+    "nit":"6191284117",
+    "sector":"Educación",
+    "contacto":"María Alba Rodríguez Pinto",
+    "correo":"elkin46@example.net",
+    "telefono":"3112418938",
+    "activa":true
+  },
+  {
+    "id":"72f4626f-6794-4120-adf9-dd9e6db7f9f2",
+    "nombre":"Sierra, Castillo and Martínez",
+    "nit":"8137214330",
+    "sector":"Educación",
+    "contacto":"Ariel Andrés Ramírez",
+    "correo":"martin03@example.com",
+    "telefono":"6029990516",
+    "activa":true
+  },
+  {
+    "id":"1cc27860-7267-4ff4-9d39-984419f7e712",
+    "nombre":"Monroy-Ortiz",
+    "nit":"0107835674",
+    "sector":"Energía",
+    "contacto":"María María Perdomo Arrieta",
+    "correo":"vcarrillo@example.org",
+    "telefono":"018007066266",
+    "activa":false
+  },
+  {
+    "id":"6708ef37-cf0c-4c51-a482-0ae60fafff6c",
+    "nombre":"Hernández, Mendoza and Triana",
+    "nit":"5535603319",
+    "sector":null,
+    "contacto":"Martha Cano",
+    "correo":"arroyomaria@example.net",
+    "telefono":"3001027240",
+    "activa":false
+  },
+  {
+    "id":"4a23b300-b67d-4acd-97d0-33a45896a022",
+    "nombre":"Romero-Hoyos",
+    "nit":"3429671114",
+    "sector":"Manufactura",
+    "contacto":"Esther Aura Mosquera Ceballos",
+    "correo":null,
+    "telefono":"018004384588",
+    "activa":true
+  },
+  {
+    "id":"66a287ff-8f88-4379-b311-56b226fb5111",
+    "nombre":"Martínez Group",
+    "nit":"9741328348",
+    "sector":"Finanzas",
+    "contacto":null,
+    "correo":"jhonbernal@example.com",
+    "telefono":"6075070449",
+    "activa":false
+  },
+  {
+    "id":"af330723-b5fb-4336-93a4-d0e4f1657b10",
+    "nombre":"Martínez PLC",
+    "nit":"6706670336",
+    "sector":"Manufactura",
+    "contacto":"Sofía Lozano Durán",
+    "correo":"rioserika@example.org",
+    "telefono":"3149305966",
+    "activa":false
+  },
+  {
+    "id":"b1203086-1c55-4d35-820a-7f266b8d58a5",
+    "nombre":"Oviedo, Espinosa and Arévalo",
+    "nit":"8648769984",
+    "sector":"Salud",
+    "contacto":"Yeimy Correa Ángel",
+    "correo":"marcelarodriguez@example.net",
+    "telefono":"3013845960",
+    "activa":true
+  },
+  {
+    "id":"ff304ac2-8826-44da-abd6-356ea9f3767b",
+    "nombre":"Castro, Ortiz and Vargas",
+    "nit":"9014954277",
+    "sector":"Manufactura",
+    "contacto":"Marina Correa",
+    "correo":"yeimy83@example.com",
+    "telefono":"6028914985",
+    "activa":true
+  },
+  {
+    "id":"3b907dc2-0579-4bfa-b5e9-e6643b42700e",
+    "nombre":"Muñoz Llc",
+    "nit":"4723229031",
+    "sector":"Energía",
+    "contacto":"Andrea Mora",
+    "correo":"cmurillo@example.net",
+    "telefono":"3004405809",
+    "activa":true
+  },
+  {
+    "id":"1bd51c40-4d28-4b2e-b97c-ee1e9e246ba9",
+    "nombre":"Romero Inc",
+    "nit":"8718133595",
+    "sector":"Turismo",
+    "contacto":"Andrés Osorio Gutiérrez",
+    "correo":"valenciafabian@example.com",
+    "telefono":"3257490250",
+    "activa":true
+  },
+  {
+    "id":"1a77ada5-c698-43a7-ab28-6de8b426dbeb",
+    "nombre":"Granados-Barreto",
+    "nit":"0193588953",
+    "sector":"Educación",
+    "contacto":"Albeiro Gómez Bonilla",
+    "correo":"pcastellanos@example.org",
+    "telefono":"6092398986",
+    "activa":false
+  },
+  {
+    "id":"88b0e1a3-4da5-460f-bc2e-e8861ae5895f",
+    "nombre":"Bautista, Calderón and Navarro",
+    "nit":"8754394353",
+    "sector":"Educación",
+    "contacto":"David Alexander Cardozo",
+    "correo":"mabelyepes@example.com",
+    "telefono":"3115881579",
+    "activa":true
+  },
+  {
+    "id":"36244192-a639-4862-a378-1c9be7686aa5",
+    "nombre":"Cardona Group",
+    "nit":"3928369294",
+    "sector":"Tecnología",
+    "contacto":"Enrique González",
+    "correo":"jsalazar@example.net",
+    "telefono":"3232702164",
+    "activa":true
+  },
+  {
+    "id":"40b785bd-151b-4cfb-a6b3-7fe34ad1536e",
+    "nombre":"Bermúdez-Ardila",
+    "nit":"9812099576",
+    "sector":null,
+    "contacto":"Óscar Alfonso Fernández",
+    "correo":"morenomaricela@example.org",
+    "telefono":"3289864565",
+    "activa":true
+  },
+  {
+    "id":"d4fef846-4166-4857-a89f-322f65610cce",
+    "nombre":"Posada Inc",
+    "nit":"3684995154",
+    "sector":null,
+    "contacto":"Luz Castro Mendoza",
+    "correo":"nancyprada@example.net",
+    "telefono":"6093342138",
+    "activa":false
+  },
+  {
+    "id":"ba429f3d-8e42-4deb-a5b5-f9372618bedc",
+    "nombre":"Carvajal Inc",
+    "nit":"8830705349",
+    "sector":"Energía",
+    "contacto":"Arturo Guzmán Serrano",
+    "correo":"gerardo17@example.com",
+    "telefono":"3241241513",
+    "activa":false
+  },
+  {
+    "id":"14625f75-b2de-4254-959b-0080ae36c5b1",
+    "nombre":"García, Sánchez and Quintero",
+    "nit":"7815061853",
+    "sector":"Turismo",
+    "contacto":"Cielo Pineda",
+    "correo":null,
+    "telefono":"3047272742",
+    "activa":false
+  },
+  {
+    "id":"bfc9a0b2-78a9-4da5-92e2-6702ce841f5b",
+    "nombre":"Acevedo Inc",
+    "nit":"8306178932",
+    "sector":null,
+    "contacto":"Laura Ortiz",
+    "correo":null,
+    "telefono":"3178243477",
+    "activa":true
+  },
+  {
+    "id":"83929b7a-f165-40e6-95c3-6af5c737c621",
+    "nombre":"Medina, Mosquera and Ramos",
+    "nit":"1314675361",
+    "sector":null,
+    "contacto":"Cristina Ruiz González",
+    "correo":"xrueda@example.com",
+    "telefono":"3296304483",
+    "activa":true
+  },
+  {
+    "id":"a1cdd395-3cde-4b88-a91c-e83bad1a9b77",
+    "nombre":"Martínez-Fuentes",
+    "nit":"4566766404",
+    "sector":"Energía",
+    "contacto":"Wilson Enrique Figueroa Álvarez",
+    "correo":"ktorres@example.net",
+    "telefono":"3019952980",
+    "activa":false
+  },
+  {
+    "id":"505476ee-fc77-423d-b5cf-a7d90adee29c",
+    "nombre":"Rodríguez, Rivera and Ocampo",
+    "nit":"5581083583",
+    "sector":null,
+    "contacto":null,
+    "correo":"francisco55@example.com",
+    "telefono":"3083000818",
+    "activa":false
+  },
+  {
+    "id":"e0995acd-1620-4bee-a220-b9a54373b29b",
+    "nombre":"Mercado-Gómez",
+    "nit":"4403304166",
+    "sector":"Tecnología",
+    "contacto":"Maribel Pardo Prieto",
+    "correo":"garciadaniel@example.net",
+    "telefono":"3200892196",
+    "activa":true
+  },
+  {
+    "id":"5a0e9483-1a37-4598-bb31-6572a12d3100",
+    "nombre":"Serrano LLC",
+    "nit":"5680447314",
+    "sector":"Finanzas",
+    "contacto":"Eduardo Alejandro Torres Parra",
+    "correo":"lidia88@example.org",
+    "telefono":"3107658173",
+    "activa":true
+  },
+  {
+    "id":"5f10b510-5466-4797-8796-a19b8fd5c76a",
+    "nombre":"Bastidas, Medina And Moreno",
+    "nit":"5791452118",
+    "sector":"Manufactura",
+    "contacto":"Sandra Valderrama Vega",
+    "correo":null,
+    "telefono":"3293074645",
+    "activa":true
+  },
+  {
+    "id":"c01b3fb2-9e17-4724-bf54-1c6afe78331a",
+    "nombre":"Gómez Ltd",
+    "nit":"9960438787",
+    "sector":"Educación",
+    "contacto":"Edilson David Restrepo",
+    "correo":"vmolina@example.net",
+    "telefono":"3161620",
+    "activa":false
+  },
+  {
+    "id":"d5bfc4dd-c574-47ff-89ae-a01204f35029",
+    "nombre":"Zambrano, Pérez and Mendoza",
+    "nit":"1067287286",
+    "sector":"Turismo",
+    "contacto":"José González Barragán",
+    "correo":"jose95@example.net",
+    "telefono":"3024839589",
+    "activa":false
+  },
+  {
+    "id":"f024fda1-50f8-4fe1-b826-519ca260e318",
+    "nombre":"Ortega-Rojas",
+    "nit":"5228705622",
+    "sector":null,
+    "contacto":"Andrés Elmer Álvarez Díaz",
+    "correo":"montoyavanessa@example.org",
+    "telefono":"3292158350",
+    "activa":true
+  },
+  {
+    "id":"e326b705-a5fa-46c3-92b9-7b6d33e61233",
+    "nombre":"Castro Group",
+    "nit":"9459648831",
+    "sector":null,
+    "contacto":null,
+    "correo":"hernandezjose@example.net",
+    "telefono":"3159994973",
+    "activa":false
+  },
+  {
+    "id":"b68d81bc-b445-43df-9338-a7dda81adbc7",
+    "nombre":"Rodríguez and Sons",
+    "nit":"3192227051",
+    "sector":null,
+    "contacto":"Patricia Arévalo",
+    "correo":null,
+    "telefono":"3213866675",
+    "activa":true
+  },
+  {
+    "id":"0ccbf01e-77ca-460b-b82a-c18b4734bb34",
+    "nombre":"Velasco-Ruiz",
+    "nit":"1932426877",
+    "sector":null,
+    "contacto":"Héctor Velásquez",
+    "correo":"larango@example.org",
+    "telefono":"3175639836",
+    "activa":false
+  },
+  {
+    "id":"7bd3bc7a-1965-45d0-874f-63e329e8e440",
+    "nombre":"Díaz-Cano",
+    "nit":"0375830945",
+    "sector":"Energía",
+    "contacto":"Bertha Yineth Mora",
+    "correo":"calderonmaria@example.com",
+    "telefono":"3260440907",
+    "activa":false
+  },
+  {
+    "id":"f577545d-c7df-4176-9b4d-cdb39f4584ac",
+    "nombre":"Barrera, Rincón and Ortega",
+    "nit":"8105092221",
+    "sector":"Transporte",
+    "contacto":"Wilmer González Marín",
+    "correo":"alvarezesteban@example.com",
+    "telefono":"3090552958",
+    "activa":true
+  },
+  {
+    "id":"d6bc3687-ef3d-470a-b0a0-210c92f90ef7",
+    "nombre":"Ibarra Group",
+    "nit":"6013824127",
+    "sector":"Educación",
+    "contacto":"Marcela Ramírez",
+    "correo":"vperez@example.org",
+    "telefono":"3148515791",
+    "activa":false
+  },
+  {
+    "id":"d9f34889-58b7-4857-9297-58a979e7f094",
+    "nombre":"Granados, López and Prada",
+    "nit":"2125902035",
+    "sector":"Energía",
+    "contacto":"Andrés Nelson Vargas Velasco",
+    "correo":"mauriciodaza@example.com",
+    "telefono":"6067642429",
+    "activa":false
+  },
+  {
+    "id":"15e1943f-4022-4ad2-92fb-d6a749fcdd82",
+    "nombre":"Perea LLC",
+    "nit":"3244741759",
+    "sector":"Manufactura",
+    "contacto":"Javier Armando Cardona",
+    "correo":"mariapalacio@example.com",
+    "telefono":"6046893654",
+    "activa":false
+  },
+  {
+    "id":"39ef867d-346e-489f-a4a5-9e3f14646827",
+    "nombre":"Bolaños, Caicedo and Villamizar",
+    "nit":"4183437401",
+    "sector":"Turismo",
+    "contacto":"Leidy Correa Ruiz",
+    "correo":"cnavarro@example.com",
+    "telefono":"6062502675",
+    "activa":true
+  },
+  {
+    "id":"17afc498-5c3e-4d72-95b4-69c9e7cf46d5",
+    "nombre":"Barreto Llc",
+    "nit":"2782079799",
+    "sector":null,
+    "contacto":"Wilson Ortega Vargas",
+    "correo":"alberto76@example.com",
+    "telefono":"6071381664",
+    "activa":true
+  },
+  {
+    "id":"c6090083-5490-4cc4-80d7-c0ea62d147dc",
+    "nombre":"Molina LLC",
+    "nit":"9839225014",
+    "sector":null,
+    "contacto":"Yenny Cruz Pérez",
+    "correo":"navarroalejandra@example.org",
+    "telefono":"3141233613",
+    "activa":false
+  },
+  {
+    "id":"6fa5f091-5667-47f3-a5ce-a485305b1d1d",
+    "nombre":"Duque LLC",
+    "nit":"0725178637",
+    "sector":"Transporte",
+    "contacto":"Albeiro Toro Castellanos",
+    "correo":"giraldoyolanda@example.org",
+    "telefono":"3154696815",
+    "activa":true
+  },
+  {
+    "id":"962ecb60-f1db-4715-999e-6f00da92511c",
+    "nombre":"Camacho-Manrique",
+    "nit":"0392355580",
+    "sector":"Energía",
+    "contacto":"René Jaimes Hernández",
+    "correo":"mariasuarez@example.org",
+    "telefono":"3162624467",
+    "activa":true
+  },
+  {
+    "id":"3dbc4225-d19d-485e-abff-553502ec88ed",
+    "nombre":"Muñoz Group",
+    "nit":"2268171516",
+    "sector":"Turismo",
+    "contacto":"Ana Hernández",
+    "correo":"aduque@example.com",
+    "telefono":"3160464197",
+    "activa":false
+  },
+  {
+    "id":"b21c7062-4eb4-4b1b-95b2-d152d899ddc3",
+    "nombre":"Arias, Ortega and Quintero",
+    "nit":"8512686120",
+    "sector":"Energía",
+    "contacto":"Roger Guillermo Muñoz",
+    "correo":null,
+    "telefono":"6065177509",
+    "activa":true
+  },
+  {
+    "id":"ab300687-dc7d-45da-86e0-fcd762133b32",
+    "nombre":"Quintero-Jiménez",
+    "nit":"0842456075",
+    "sector":"Finanzas",
+    "contacto":"Leonardo Hurtado",
+    "correo":"miguel86@example.org",
+    "telefono":"3018122764",
+    "activa":false
+  },
+  {
+    "id":"787f9da2-3af7-423f-8ec3-b89416f54c34",
+    "nombre":"Domínguez-Barrios",
+    "nit":"3897015502",
+    "sector":null,
+    "contacto":"Liliana Emilse García",
+    "correo":"rubiela02@example.net",
+    "telefono":"3016139449",
+    "activa":false
+  },
+  {
+    "id":"e3d18279-4c3b-47b2-981c-b9f06f0261fc",
+    "nombre":"Montoya, Alzate and Vélez",
+    "nit":"0597364248",
+    "sector":null,
+    "contacto":"Angie Chávez",
+    "correo":"luisa63@example.org",
+    "telefono":"3224479513",
+    "activa":true
+  },
+  {
+    "id":"f32df7aa-6145-4f48-9b1b-2541f25a98f0",
+    "nombre":"Rodríguez LLC",
+    "nit":"3194979695",
+    "sector":"Finanzas",
+    "contacto":"Jairo Velásquez Herrera",
+    "correo":"erika72@example.com",
+    "telefono":"3238264609",
+    "activa":false
+  },
+  {
+    "id":"40c94177-dbf2-441c-a70b-7c556dbd817b",
+    "nombre":"Barrera PLC",
+    "nit":"5138544577",
+    "sector":"Turismo",
+    "contacto":"Ana Orozco",
+    "correo":"carlos60@example.com",
+    "telefono":"018007368269",
+    "activa":true
+  },
+  {
+    "id":"e60558df-0a9b-46c1-8315-cf020fa0e0c1",
+    "nombre":"López and Sons",
+    "nit":"3194226865",
+    "sector":"Manufactura",
+    "contacto":"Laura Karen Ruiz Morales",
+    "correo":null,
+    "telefono":"3188863677",
+    "activa":false
+  },
+  {
+    "id":"38e5d7b9-7718-40d0-82ee-2b21490318fd",
+    "nombre":"Luna-Cardona",
+    "nit":"2640857216",
+    "sector":null,
+    "contacto":"Gildardo Peña Acevedo",
+    "correo":"isabelbeltran@example.org",
+    "telefono":"3205932971",
+    "activa":true
+  },
+  {
+    "id":"79cb9973-3fc6-4a71-b874-9926d891bb86",
+    "nombre":"Rodríguez-Agudelo",
+    "nit":"6883275327",
+    "sector":"Tecnología",
+    "contacto":"Cecilia Milena Lara Rojas",
+    "correo":"rcruz@example.net",
+    "telefono":"3232781952",
+    "activa":true
+  },
+  {
+    "id":"64a3f937-a25d-4b0c-8146-fb93c93ab3d3",
+    "nombre":"Restrepo Inc",
+    "nit":"0068761648",
+    "sector":"Educación",
+    "contacto":"Edith Angie Villamil",
+    "correo":"mendozapablo@example.org",
+    "telefono":"3160568761",
+    "activa":false
+  },
+  {
+    "id":"1eaa4f63-4c4d-462d-b124-9c2b30cc0115",
+    "nombre":"Sánchez LLC",
+    "nit":"9125652373",
+    "sector":"Turismo",
+    "contacto":"Luis Bedoya",
+    "correo":"cruzcamilo@example.org",
+    "telefono":"3054757494",
+    "activa":true
+  },
+  {
+    "id":"32207197-5a71-4f11-a26f-992e3cd34e98",
+    "nombre":"Gómez, Hernández and Guzmán",
+    "nit":"0359544294",
+    "sector":"Turismo",
+    "contacto":"Esteban Fredy Sánchez Cifuentes",
+    "correo":"milenajimenez@example.com",
+    "telefono":"3030394290",
+    "activa":false
+  },
+  {
+    "id":"092047eb-525f-4350-8e02-4fe1e6b69537",
+    "nombre":"Morales-Palacios",
+    "nit":"8679252985",
+    "sector":"Salud",
+    "contacto":"Eduardo Franklin Jaimes",
+    "correo":"ydiaz@example.org",
+    "telefono":"6052534332",
+    "activa":true
+  },
+  {
+    "id":"edea8487-1412-4378-b32e-53d9559e6081",
+    "nombre":"Ramírez, Sierra and Jaramillo",
+    "nit":"0833506158",
+    "sector":"Salud",
+    "contacto":"Marcela Magdalena Sanabria",
+    "correo":"manriqueluz@example.net",
+    "telefono":"3233423372",
+    "activa":false
+  },
+  {
+    "id":"8b847be6-a24e-4b04-a2b9-f5695af2249c",
+    "nombre":"Gonzáles Llc",
+    "nit":"8413128403",
+    "sector":"Salud",
+    "contacto":"Paola Mery Acosta López",
+    "correo":null,
+    "telefono":"3217173189",
+    "activa":true
+  },
+  {
+    "id":"52ae81de-f3d0-4159-b898-740d1002a025",
+    "nombre":"Carvajal LLC",
+    "nit":"9096173997",
+    "sector":null,
+    "contacto":"Carmen Parra",
+    "correo":"jacqueline25@example.net",
+    "telefono":"3284448354",
+    "activa":false
+  },
+  {
+    "id":"df73bed3-03d7-4bb9-9093-4386ac55e66b",
+    "nombre":"Londoño, Álvarez and Mendoza",
+    "nit":"2759980111",
+    "sector":null,
+    "contacto":"Fredy López Prieto",
+    "correo":"fernando82@example.org",
+    "telefono":"6098334845",
+    "activa":false
+  },
+  {
+    "id":"51e72747-47a9-42bc-94c1-500f45ca4589",
+    "nombre":"Duque PLC",
+    "nit":"3925236229",
+    "sector":"Energía",
+    "contacto":"Cecilia Delgado Ortega",
+    "correo":"rpatino@example.org",
+    "telefono":"3074524555",
+    "activa":false
+  },
+  {
+    "id":"689e8a19-74ba-419c-908e-0a5d6c0f436f",
+    "nombre":"Vargas LLC",
+    "nit":"7970673499",
+    "sector":null,
+    "contacto":"Andrés Martínez Herrera",
+    "correo":"betty41@example.com",
+    "telefono":"6054156229",
+    "activa":true
+  },
+  {
+    "id":"bdead02d-223e-4467-9099-01cf74e38972",
+    "nombre":"López, Vargas and Córdoba",
+    "nit":"4884021557",
+    "sector":"Energía",
+    "contacto":"Andrea Cristina Cruz Quintero",
+    "correo":"rocio02@example.org",
+    "telefono":"3266708085",
+    "activa":true
+  },
+  {
+    "id":"a4f9797d-ef61-4074-810e-5b8edbbf7f54",
+    "nombre":"Ospina Inc",
+    "nit":"8587495119",
+    "sector":null,
+    "contacto":"Yurany Sara Contreras",
+    "correo":"cordobayessica@example.net",
+    "telefono":"3016477251",
+    "activa":true
+  },
+  {
+    "id":"20e2ee95-398f-4303-8c6b-40a662a86873",
+    "nombre":"Jaimes Llc",
+    "nit":"7860694096",
+    "sector":"Salud",
+    "contacto":"María Ruiz",
+    "correo":"beatriztorres@example.net",
+    "telefono":"3187395923",
+    "activa":false
+  },
+  {
+    "id":"2a23fe01-17b7-4d87-94b0-75fbe32d05d2",
+    "nombre":"Rojas and Sons",
+    "nit":"1089028515",
+    "sector":"Energía",
+    "contacto":"Smith Pablo Ramírez",
+    "correo":"estelaortiz@example.org",
+    "telefono":"3102716073",
+    "activa":false
+  },
+  {
+    "id":"5156835a-bf42-43bb-b911-dd60a118f32e",
+    "nombre":"Martínez-Mendoza",
+    "nit":"3369112898",
+    "sector":null,
+    "contacto":"Ana Sandra Ibarra",
+    "correo":null,
+    "telefono":"3018574817",
+    "activa":false
+  },
+  {
+    "id":"9b00e911-a93c-4825-ae4c-5766fb2b3b0a",
+    "nombre":"Rodríguez Group",
+    "nit":"6155416431",
+    "sector":"Tecnología",
+    "contacto":"Duván Rodríguez Alfonso",
+    "correo":"maria32@example.net",
+    "telefono":"1282270",
+    "activa":false
+  },
+  {
+    "id":"fd436008-1bd1-4775-918a-db49cc705400",
+    "nombre":"Arenas, Gaviria and Durán",
+    "nit":"5962622822",
+    "sector":"Manufactura",
+    "contacto":"Gilberto Luis Pérez",
+    "correo":"zramirez@example.net",
+    "telefono":"3149500507",
+    "activa":false
+  },
+  {
+    "id":"4e6afddc-bb86-440d-a13e-c5d6bb0feb95",
+    "nombre":"Galvis and Sons",
+    "nit":"6086982210",
+    "sector":"Educación",
+    "contacto":"Efrain Luis Ojeda",
+    "correo":"tamayomargoth@example.com",
+    "telefono":"018007290477",
+    "activa":false
+  },
+  {
+    "id":"9cb58cfd-98cb-4621-bb86-caf444c1e677",
+    "nombre":"Hernández-Hoyos",
+    "nit":"7328077113",
+    "sector":"Turismo",
+    "contacto":"Yamile Sánchez Navarro",
+    "correo":"becerraamparo@example.net",
+    "telefono":"6089334245",
+    "activa":false
+  },
+  {
+    "id":"a6b23cf1-d977-4b41-b95e-739872b186db",
+    "nombre":"Escobar, Loaiza and Ochoa",
+    "nit":"2565290603",
+    "sector":"Transporte",
+    "contacto":"María Acevedo Perea",
+    "correo":"ceciliaruiz@example.net",
+    "telefono":"3275396737",
+    "activa":false
+  },
+  {
+    "id":"e239b514-5f62-42a7-833e-b23a4c93139f",
+    "nombre":"Muñoz, Mendoza and Sarmiento",
+    "nit":"8552457871",
+    "sector":"Turismo",
+    "contacto":"Alonso Fernando Ocampo",
+    "correo":"ibedoya@example.org",
+    "telefono":"6036371184",
+    "activa":false
+  },
+  {
+    "id":"2cabdd80-3333-469c-9513-3b27d9ac419d",
+    "nombre":"Cárdenas-Cortés",
+    "nit":"1826832303",
+    "sector":null,
+    "contacto":"Cristian Adolfo Londoño",
+    "correo":"menesesjulieth@example.org",
+    "telefono":"3225212932",
+    "activa":false
+  },
+  {
+    "id":"d52f0b44-ad9c-4aaa-a43d-72887f4032e7",
+    "nombre":"Valderrama, León and Andrade",
+    "nit":"4064686775",
+    "sector":"Finanzas",
+    "contacto":"Consuelo Suárez García",
+    "correo":"laura99@example.org",
+    "telefono":"6073622723",
+    "activa":true
+  },
+  {
+    "id":"5870ab16-1d74-4b82-88a5-43b76bc31043",
+    "nombre":"Guerrero, Vega and Vargas",
+    "nit":"5134261923",
+    "sector":null,
+    "contacto":"Carlos Fernando Valencia Henao",
+    "correo":"jose97@example.org",
+    "telefono":"3241897215",
+    "activa":false
+  },
+  {
+    "id":"68a2bfe0-9e50-4487-b73d-ac2cb36bfdcf",
+    "nombre":"Quiroga-Gómez",
+    "nit":"4176927438",
+    "sector":null,
+    "contacto":"María Dora Olaya",
+    "correo":"daniela76@example.com",
+    "telefono":"6075144485",
+    "activa":false
+  },
+  {
+    "id":"3dfa8b1e-d5c5-4221-aaa7-59e6d951e660",
+    "nombre":"García-López",
+    "nit":"7397396417",
+    "sector":"Tecnología",
+    "contacto":"Ricardo Polo Soto",
+    "correo":"agudelojuan@example.net",
+    "telefono":"6077911359",
+    "activa":false
+  },
+  {
+    "id":"90091802-f0d9-49f5-8a35-12fe41064ce1",
+    "nombre":"Arroyo, Ortiz and Alzate",
+    "nit":"3885652715",
+    "sector":"Energía",
+    "contacto":"Mario Gabriel Perea",
+    "correo":"valentinasuarez@example.net",
+    "telefono":"4659726",
+    "activa":true
+  },
+  {
+    "id":"e3c013c6-0c32-4a36-bb2c-c82fec6c0785",
+    "nombre":"Ordóñez-Reyes",
+    "nit":"5752250139",
+    "sector":null,
+    "contacto":null,
+    "correo":"rafael82@example.com",
+    "telefono":"6036311964",
+    "activa":true
+  },
+  {
+    "id":"f6e555a0-f9ee-4278-af27-9985a2a2301c",
+    "nombre":"Romero, Hernández and Flórez",
+    "nit":"4991537038",
+    "sector":"Educación",
+    "contacto":"Nelly Castro Zapata",
+    "correo":"esthertorres@example.net",
+    "telefono":"3020430977",
+    "activa":false
+  },
+  {
+    "id":"76f0828c-b4b5-40df-bd0f-bf41384e186a",
+    "nombre":"Velásquez-Molano",
+    "nit":"3628969645",
+    "sector":"Salud",
+    "contacto":"Alejandro Morales",
+    "correo":"angelicamosquera@example.net",
+    "telefono":"6098538921",
+    "activa":false
+  },
+  {
+    "id":"626e85c1-519b-471e-8227-d52a73becbcd",
+    "nombre":"Álvarez, Arévalo And Agudelo",
+    "nit":"5837490797",
+    "sector":"Salud",
+    "contacto":"William Andrés Barragán Rodríguez",
+    "correo":"dvelasquez@example.com",
+    "telefono":"3221514940",
+    "activa":false
+  },
+  {
+    "id":"c6986cda-1b4f-4275-bef4-626672f0915d",
+    "nombre":"Carvajal, Osorio And Cabrera",
+    "nit":"2637484539",
+    "sector":"Tecnología",
+    "contacto":"Carlos Montoya Carrillo",
+    "correo":"nelson90@example.net",
+    "telefono":"3191191862",
+    "activa":true
+  },
+  {
+    "id":"b9421192-1258-4f00-8b10-e2f266a97a30",
+    "nombre":"Ramírez, Gonzáles And Perdomo",
+    "nit":"2207151169",
+    "sector":"Energía",
+    "contacto":"Roberto Flórez Ortega",
+    "correo":"rosa45@example.org",
+    "telefono":"3247124633",
+    "activa":true
+  },
+  {
+    "id":"35358561-d88c-482b-b105-c70f52801633",
+    "nombre":"Rengifo-Barrera",
+    "nit":"5718409080",
+    "sector":"Salud",
+    "contacto":"Luis José Bustamante",
+    "correo":"rodriguezkelly@example.org",
+    "telefono":"3112397283",
+    "activa":false
+  },
+  {
+    "id":"ed648193-0d34-41a1-94ee-899750168dcc",
+    "nombre":"López-Carrillo",
+    "nit":"2959272827",
+    "sector":null,
+    "contacto":"Mercedes Rubio",
+    "correo":"arevalomercedes@example.com",
+    "telefono":"6084529821",
+    "activa":false
+  },
+  {
+    "id":"cc718c81-4426-48ff-9dbb-20f98e2dd971",
+    "nombre":"Sánchez, Ávila and Quintero",
+    "nit":"7867181535",
+    "sector":null,
+    "contacto":"Paola Figueroa Díaz",
+    "correo":null,
+    "telefono":"6099815899",
+    "activa":false
+  },
+  {
+    "id":"1845e768-2e71-4ccc-ae5b-8d0688c25fe3",
+    "nombre":"Uribe-Franco",
+    "nit":"4527346666",
+    "sector":"Salud",
+    "contacto":"Esther Esther Ruiz",
+    "correo":"tleon@example.com",
+    "telefono":"3108031499",
+    "activa":false
+  },
+  {
+    "id":"1dd1c0ff-4ceb-428e-b910-dba8278a4041",
+    "nombre":"Pérez, Álvarez and Martínez",
+    "nit":"0046358068",
+    "sector":"Turismo",
+    "contacto":"Johana Duarte Gómez",
+    "correo":"dianaquiroga@example.org",
+    "telefono":"3113739900",
+    "activa":false
+  },
+  {
+    "id":"ee6ca3a2-1645-4960-bcb9-534560c9338a",
+    "nombre":"Rojas-Barrios",
+    "nit":"4035263560",
+    "sector":"Transporte",
+    "contacto":"Patricia Vargas Camacho",
+    "correo":"tduarte@example.net",
+    "telefono":"3134606664",
+    "activa":false
+  },
+  {
+    "id":"667989fe-7932-45a6-a31c-6ba068d6fed8",
+    "nombre":"Ayala Group",
+    "nit":"4906072311",
+    "sector":"Turismo",
+    "contacto":"Ana Dary Martínez",
+    "correo":"claudia46@example.com",
+    "telefono":"018004494116",
+    "activa":true
+  },
+  {
+    "id":"78f631b5-d0bc-499e-8b28-66bc2668e3ea",
+    "nombre":"Rodríguez, Sánchez and Estrada",
+    "nit":"4257306624",
+    "sector":"Finanzas",
+    "contacto":"Martha Eugenia Quintero",
+    "correo":"crodriguez@example.org",
+    "telefono":"3098482285",
+    "activa":false
+  },
+  {
+    "id":"6791bc2e-53e5-4511-81c8-2c0d84b58823",
+    "nombre":"González Inc",
+    "nit":"6880925502",
+    "sector":"Finanzas",
+    "contacto":"Flor María Rodríguez",
+    "correo":"aguilarangel@example.org",
+    "telefono":"3009810796",
+    "activa":true
+  },
+  {
+    "id":"29e02119-30dd-4582-beb0-eb366d2a5968",
+    "nombre":"Duque-Giraldo",
+    "nit":"3794577278",
+    "sector":"Energía",
+    "contacto":"David Jorge Ariza",
+    "correo":"kanaya@example.com",
+    "telefono":"6094642076",
+    "activa":true
+  },
+  {
+    "id":"3e97d0f6-099a-45af-a341-1e28b7ec2f42",
+    "nombre":"Hernández-Pineda",
+    "nit":"3666777675",
+    "sector":"Salud",
+    "contacto":"Alexander Diego Vanegas",
+    "correo":"estheramaya@example.net",
+    "telefono":"3095786543",
+    "activa":false
+  },
+  {
+    "id":"83f09058-3370-4597-ac38-eef4d9cb4a76",
+    "nombre":"Hernández-González",
+    "nit":"7496033582",
+    "sector":"Educación",
+    "contacto":"Eder Mejía Barbosa",
+    "correo":"velezconstanza@example.net",
+    "telefono":"3049269326",
+    "activa":false
+  },
+  {
+    "id":"907afe6a-b5e4-49ae-82a8-f301e12dd7ab",
+    "nombre":"Ortega-Narváez",
+    "nit":"4418222618",
+    "sector":null,
+    "contacto":"Carlos Cortés Correa",
+    "correo":"eduardo31@example.net",
+    "telefono":"6078710267",
+    "activa":true
+  },
+  {
+    "id":"77dbc105-0918-491b-9cef-ddb8ffa3c74f",
+    "nombre":"Castañeda PLC",
+    "nit":"5799270795",
+    "sector":"Manufactura",
+    "contacto":"Ovidio Vicente García",
+    "correo":"antoniobuitrago@example.org",
+    "telefono":"6081354159",
+    "activa":false
+  },
+  {
+    "id":"df0f5c94-3779-40ba-9c00-6cc099225085",
+    "nombre":"Naranjo, Guerrero and Pérez",
+    "nit":"4384807520",
+    "sector":"Transporte",
+    "contacto":"Judith Marcela Orjuela Quintero",
+    "correo":"cesar71@example.com",
+    "telefono":"018000290904",
+    "activa":false
+  },
+  {
+    "id":"8f213e10-edf3-4f16-8dd9-08dbd5710874",
+    "nombre":"Ramírez-Correa",
+    "nit":"6046558665",
+    "sector":"Educación",
+    "contacto":"Jhoana Pinzón Cortés",
+    "correo":"fcastro@example.com",
+    "telefono":"4581021",
+    "activa":true
+  },
+  {
+    "id":"e6211ef7-18ca-4571-9734-03d088da26e8",
+    "nombre":"Díaz Inc",
+    "nit":"2931100591",
+    "sector":"Turismo",
+    "contacto":"Margarita Paz Tamayo",
+    "correo":"fabian19@example.org",
+    "telefono":"6017231211",
+    "activa":false
+  },
+  {
+    "id":"f27c803d-4602-4538-a3dc-37737c5dac44",
+    "nombre":"Moreno, Martínez and García",
+    "nit":"5837379274",
+    "sector":null,
+    "contacto":"Inés Palacios",
+    "correo":"diazelena@example.org",
+    "telefono":"018009311325",
+    "activa":true
+  },
+  {
+    "id":"6a067b60-62ea-4d9c-afa1-312932781fce",
+    "nombre":"Pérez Ltd",
+    "nit":"9496843645",
+    "sector":"Educación",
+    "contacto":"Mónica Teresa Bolaños Vargas",
+    "correo":"patriciamartinez@example.com",
+    "telefono":"6066961701",
+    "activa":true
+  },
+  {
+    "id":"59192e37-257a-4116-accb-4fff230b362e",
+    "nombre":"Duarte, Buitrago and Martínez",
+    "nit":"4575757475",
+    "sector":"Salud",
+    "contacto":"Martha Andrea Barrios Peña",
+    "correo":"yvalencia@example.com",
+    "telefono":"3277226602",
+    "activa":false
+  },
+  {
+    "id":"3510b14f-99e2-4fb9-976b-a614f577b25c",
+    "nombre":"Erazo-Pérez",
+    "nit":"0511579423",
+    "sector":null,
+    "contacto":"Rodrigo Camilo Rodríguez Álvarez",
+    "correo":"ruthalvarez@example.net",
+    "telefono":"3291928455",
+    "activa":true
+  },
+  {
+    "id":"ec6f6f56-50e3-45ad-88eb-2ad5a7af430e",
+    "nombre":"Alvarado, Arias and Manrique",
+    "nit":"1075633535",
+    "sector":"Finanzas",
+    "contacto":null,
+    "correo":"rodrigopaz@example.net",
+    "telefono":"3099337970",
+    "activa":false
+  },
+  {
+    "id":"b51d61bd-cc30-44a4-bf68-26db98ba08e9",
+    "nombre":"Palacios-López",
+    "nit":"2951877941",
+    "sector":"Manufactura",
+    "contacto":"Jhon Juan Solano Amaya",
+    "correo":"edgar07@example.org",
+    "telefono":"3005597824",
+    "activa":false
+  },
+  {
+    "id":"633ad674-21bc-4149-a6a8-3b56aa2bfef8",
+    "nombre":"Reyes-Álvarez",
+    "nit":"8339914038",
+    "sector":"Manufactura",
+    "contacto":"Antonio Rivera",
+    "correo":"jimenezadriana@example.com",
+    "telefono":"6087061572",
+    "activa":true
+  },
+  {
+    "id":"05944de9-cacb-4d1c-a63e-8dee75f72f80",
+    "nombre":"Sánchez, Marín and Álvarez",
+    "nit":"4743974292",
+    "sector":null,
+    "contacto":"Bryan Luis Salas",
+    "correo":"uarias@example.net",
+    "telefono":"3180656259",
+    "activa":false
+  },
+  {
+    "id":"728e8dac-d1a3-4178-b730-8cf4db78c821",
+    "nombre":"Franco LLC",
+    "nit":"9908027112",
+    "sector":"Turismo",
+    "contacto":"Luz Pérez Forero",
+    "correo":"gallegosantos@example.com",
+    "telefono":"1651768",
+    "activa":true
+  },
+  {
+    "id":"f2cc21f5-7f86-485e-a852-90377d06d8b2",
+    "nombre":"Rincón-Camacho",
+    "nit":"6810390339",
+    "sector":"Transporte",
+    "contacto":"José Hernando Murillo Arias",
+    "correo":"catalinasanchez@example.org",
+    "telefono":"3148586239",
+    "activa":false
+  },
+  {
+    "id":"d8e083e9-aa89-4996-9d8b-8c8f68844111",
+    "nombre":"Rojas-Rodríguez",
+    "nit":"0325376576",
+    "sector":null,
+    "contacto":"Magda Ramos Hurtado",
+    "correo":"anagonzalez@example.org",
+    "telefono":"6087900404",
+    "activa":false
+  },
+  {
+    "id":"6c6446ee-5988-41ea-9fc8-0e76723c48af",
+    "nombre":"Jaramillo, Pérez and Martínez",
+    "nit":"3365146040",
+    "sector":"Finanzas",
+    "contacto":"Lucía Marcela Granados",
+    "correo":"paolahenao@example.net",
+    "telefono":"6089720113",
+    "activa":false
+  },
+  {
+    "id":"1b05ccfb-6e8f-4bae-a795-3b49f67365b3",
+    "nombre":"Ortiz-Narváez",
+    "nit":"7123166007",
+    "sector":null,
+    "contacto":"Albeiro Peña Cardozo",
+    "correo":"hoyosjean@example.com",
+    "telefono":"3173404337",
+    "activa":true
+  },
+  {
+    "id":"c249565b-b9f1-44fe-a601-103acd3a2a6a",
+    "nombre":"Barragán Inc",
+    "nit":"9687304519",
+    "sector":"Finanzas",
+    "contacto":"Miguel Felipe Pérez",
+    "correo":"daniel82@example.com",
+    "telefono":"3162965754",
+    "activa":false
+  },
+  {
+    "id":"d8c00890-a33d-4b02-88b7-2f114a951e04",
+    "nombre":"Aguilar Group",
+    "nit":"8656194255",
+    "sector":null,
+    "contacto":"Daniel Ángel Duarte Naranjo",
+    "correo":"jose29@example.com",
+    "telefono":"018002923616",
+    "activa":false
+  },
+  {
+    "id":"8617dae5-74ca-4359-b0d6-7c16160c1f4e",
+    "nombre":"Cerón PLC",
+    "nit":"0819048235",
+    "sector":null,
+    "contacto":"Luis Arturo Bautista Caicedo",
+    "correo":"zguzman@example.org",
+    "telefono":"3161372308",
+    "activa":false
+  },
+  {
+    "id":"f5e246e2-2ae4-45e5-81b1-37bad065e4d7",
+    "nombre":"Zapata Inc",
+    "nit":"4364381300",
+    "sector":"Manufactura",
+    "contacto":"Milena Rojas",
+    "correo":null,
+    "telefono":"3256094565",
+    "activa":true
+  },
+  {
+    "id":"391ef716-0490-4979-b10e-b88fb6f6a464",
+    "nombre":"Suárez PLC",
+    "nit":"9799070755",
+    "sector":"Energía",
+    "contacto":null,
+    "correo":"xgallego@example.org",
+    "telefono":"3299570607",
+    "activa":false
+  },
+  {
+    "id":"9129a7f3-c37d-4652-a435-5cb799ba0cb4",
+    "nombre":"Ortega PLC",
+    "nit":"1131765397",
+    "sector":"Tecnología",
+    "contacto":"Cecilia Cortés",
+    "correo":"arojas@example.org",
+    "telefono":"9290871",
+    "activa":true
+  },
+  {
+    "id":"d7c08500-6eda-4972-a0b4-931d4230a11d",
+    "nombre":"Restrepo Ltd",
+    "nit":"9680491872",
+    "sector":null,
+    "contacto":"Jorge Carlos Gutiérrez Quintero",
+    "correo":"pachecoeder@example.org",
+    "telefono":"3077306260",
+    "activa":false
+  },
+  {
+    "id":"583da109-a72c-46c4-9962-835139f06426",
+    "nombre":"Díaz-Herrera",
+    "nit":"9737112229",
+    "sector":null,
+    "contacto":"Marina Morales",
+    "correo":"hrodriguez@example.net",
+    "telefono":"3181670468",
+    "activa":true
+  },
+  {
+    "id":"184ab14a-4517-47db-b560-2e01a15c0335",
+    "nombre":"Salazar, Martínez and Muñoz",
+    "nit":"5768321021",
+    "sector":null,
+    "contacto":null,
+    "correo":"luis71@example.net",
+    "telefono":"3096180332",
+    "activa":false
+  },
+  {
+    "id":"f74da71d-3f6f-4029-8883-6a6987434ede",
+    "nombre":"Hernández-Narváez",
+    "nit":"0508018498",
+    "sector":"Finanzas",
+    "contacto":"Lucía Arrieta",
+    "correo":"marco73@example.org",
+    "telefono":"3277312688",
+    "activa":true
+  },
+  {
+    "id":"a3deab54-a44a-45b5-8328-2d4cab7ab887",
+    "nombre":"Sánchez and Sons",
+    "nit":"8217819236",
+    "sector":null,
+    "contacto":"Eder Arley Parra",
+    "correo":"ugomez@example.com",
+    "telefono":"6038356793",
+    "activa":false
+  },
+  {
+    "id":"75030258-f5a3-4a5b-9ec2-a37539bbd884",
+    "nombre":"Núñez, Palacios and Parra",
+    "nit":"2398471690",
+    "sector":"Educación",
+    "contacto":"Andrés García Galindo",
+    "correo":"ivangomez@example.com",
+    "telefono":"3147548954",
+    "activa":true
+  },
+  {
+    "id":"1ec3f0ce-fc55-4a47-bcaa-c18c0b48dd7b",
+    "nombre":"Molina-Flórez",
+    "nit":"9899927517",
+    "sector":"Tecnología",
+    "contacto":"Sebastián Mario Martínez",
+    "correo":"oswaldo49@example.net",
+    "telefono":"3055393543",
+    "activa":false
+  },
+  {
+    "id":"773a4f50-7309-463a-8b21-c97239f1ee38",
+    "nombre":"Delgado-Peña",
+    "nit":"4963924358",
+    "sector":null,
+    "contacto":"Alberto Miguel Guzmán",
+    "correo":"vanegasgerman@example.net",
+    "telefono":"3039527536",
+    "activa":true
+  },
+  {
+    "id":"e06b1ab3-01ff-40c0-af1e-e559e520db70",
+    "nombre":"Becerra-Montenegro",
+    "nit":"7852491416",
+    "sector":null,
+    "contacto":"José Díaz Betancur",
+    "correo":"jcardenas@example.net",
+    "telefono":"3089634067",
+    "activa":false
+  },
+  {
+    "id":"964d5665-411b-421c-bca8-bf19e6e88bbc",
+    "nombre":"González, Mendoza And Álvarez",
+    "nit":"2215001418",
+    "sector":null,
+    "contacto":"Carlos López",
+    "correo":"qramirez@example.net",
+    "telefono":"6074015944",
+    "activa":true
+  },
+  {
+    "id":"ee19fa25-d26f-4d47-bb15-dc1f769f7550",
+    "nombre":"Torres Plc",
+    "nit":"9485320895",
+    "sector":"Manufactura",
+    "contacto":"Andrea Lidia Flórez Ríos",
+    "correo":"pedrazaandrea@example.net",
+    "telefono":"3071136337",
+    "activa":false
+  },
+  {
+    "id":"5cf9231d-ae62-4652-be0a-307be41fdf28",
+    "nombre":"Pérez, Pérez and Torres",
+    "nit":"1034699673",
+    "sector":"Energía",
+    "contacto":null,
+    "correo":"wgaitan@example.com",
+    "telefono":"6066843768",
+    "activa":true
+  },
+  {
+    "id":"9d161a9f-13d3-45cb-b593-a62a2ef8f0e8",
+    "nombre":"Sierra PLC",
+    "nit":"6793521962",
+    "sector":"Finanzas",
+    "contacto":"Alberto Álvarez Parra",
+    "correo":"alejandroburbano@example.com",
+    "telefono":"3209317069",
+    "activa":true
+  },
+  {
+    "id":"8ee2df89-0249-4c66-9bb6-843e37deaae1",
+    "nombre":"Mosquera-Rodríguez",
+    "nit":"6761645345",
+    "sector":"Turismo",
+    "contacto":"Jairo Pérez",
+    "correo":"edgargonzales@example.com",
+    "telefono":"6015312198",
+    "activa":false
+  },
+  {
+    "id":"cd0a5d3a-c819-4967-8af0-b8198ef01f05",
+    "nombre":"Silva LLC",
+    "nit":"7242642364",
+    "sector":"Turismo",
+    "contacto":null,
+    "correo":"cordobajulian@example.net",
+    "telefono":"3048762303",
+    "activa":false
+  },
+  {
+    "id":"497c71e9-de96-49ab-ae31-7103fb0a9843",
+    "nombre":"Amaya, Martínez And López",
+    "nit":"2817852282",
+    "sector":"Educación",
+    "contacto":"Helena Cecilia Pérez Ortiz",
+    "correo":"sierrajohan@example.com",
+    "telefono":"6065207223",
+    "activa":false
+  },
+  {
+    "id":"cfe20743-d36e-47dd-96b6-ea76458b5c57",
+    "nombre":"Vargas-Díaz",
+    "nit":"1329016204",
+    "sector":null,
+    "contacto":"Cristian Mauricio Gallego Caicedo",
+    "correo":"dcampo@example.net",
+    "telefono":"3259964862",
+    "activa":false
+  },
+  {
+    "id":"aa47223e-17dc-4ccb-bf3e-9fe8619674c6",
+    "nombre":"Andrade, Hernández and Gómez",
+    "nit":"1954196664",
+    "sector":"Transporte",
+    "contacto":"José Mauricio Espinosa",
+    "correo":"nohorahenao@example.org",
+    "telefono":"3292463203",
+    "activa":true
+  },
+  {
+    "id":"1aadd066-9bb2-48bd-9122-3007c8d85e57",
+    "nombre":"Muñoz-Castillo",
+    "nit":"7537260321",
+    "sector":null,
+    "contacto":"Eduardo Romero",
+    "correo":"bmurcia@example.org",
+    "telefono":"3158870715",
+    "activa":true
+  },
+  {
+    "id":"9c0b25a6-da95-4ceb-b173-89e99821c9db",
+    "nombre":"Ramírez-Caballero",
+    "nit":"2012840083",
+    "sector":"Educación",
+    "contacto":"José Diego Vera",
+    "correo":"uromero@example.com",
+    "telefono":"3108917768",
+    "activa":true
+  },
+  {
+    "id":"59ea9259-afcf-4a7f-8f01-30d58b4d3de3",
+    "nombre":"Soto Plc",
+    "nit":"9812657422",
+    "sector":"Energía",
+    "contacto":"Luz Liliana Medina Gómez",
+    "correo":"maria23@example.com",
+    "telefono":"3062689430",
+    "activa":false
+  },
+  {
+    "id":"4fa9e53f-e9f9-42fd-9014-078238bbe04d",
+    "nombre":"Pérez Inc",
+    "nit":"4713727117",
+    "sector":"Salud",
+    "contacto":"Mario Evelio Gaitán",
+    "correo":"carlos85@example.net",
+    "telefono":"3182984933",
+    "activa":false
+  },
+  {
+    "id":"923c5959-570c-41b4-b64f-4b8eedd41122",
+    "nombre":"Mejía LLC",
+    "nit":"5847609441",
+    "sector":"Tecnología",
+    "contacto":"Yaneth Meza Torres",
+    "correo":"margothsanchez@example.org",
+    "telefono":"018008566695",
+    "activa":false
+  },
+  {
+    "id":"d4f7fce4-fb5d-4b7f-ac00-738c10abe97a",
+    "nombre":"García-Pérez",
+    "nit":"7150666267",
+    "sector":"Turismo",
+    "contacto":"Claudia Arias",
+    "correo":"leidy76@example.net",
+    "telefono":"3066343925",
+    "activa":true
+  },
+  {
+    "id":"beab3bc0-d727-427f-90a5-5751f8a41573",
+    "nombre":"Carvajal PLC",
+    "nit":"6111102867",
+    "sector":null,
+    "contacto":"Nury Rosalba Benavides",
+    "correo":"abelardorodriguez@example.org",
+    "telefono":"6013245591",
+    "activa":false
+  },
+  {
+    "id":"575ed19d-83a0-4cb5-b584-364fb8be98f4",
+    "nombre":"Valencia-Gómez",
+    "nit":"9109032671",
+    "sector":"Manufactura",
+    "contacto":"Orlando Garzón",
+    "correo":"roaamparo@example.org",
+    "telefono":"3294281793",
+    "activa":false
+  },
+  {
+    "id":"71e23b6c-67bf-46f4-a633-8808d02d4439",
+    "nombre":"Gutiérrez, Medina and Quintero",
+    "nit":"2775844663",
+    "sector":"Transporte",
+    "contacto":"Hernán Rojas",
+    "correo":"jsanchez@example.org",
+    "telefono":"3091217",
+    "activa":true
+  },
+  {
+    "id":"75f36832-655f-4cbd-b49b-fcf4e664a986",
+    "nombre":"Vanegas LLC",
+    "nit":"5593766189",
+    "sector":"Finanzas",
+    "contacto":null,
+    "correo":"xhoyos@example.org",
+    "telefono":"3135100462",
+    "activa":false
+  },
+  {
+    "id":"9ed650a0-d950-4778-8aef-6fd715c154a7",
+    "nombre":"Restrepo-Parada",
+    "nit":"5725659202",
+    "sector":"Tecnología",
+    "contacto":"Camilo Reyes",
+    "correo":"milena23@example.net",
+    "telefono":"3243260055",
+    "activa":false
+  },
+  {
+    "id":"db387a6e-6673-4ae3-8413-89195df3c9a4",
+    "nombre":"Arias, Rodríguez And Ramos",
+    "nit":"8332584868",
+    "sector":null,
+    "contacto":"Marina Cielo Meneses Cárdenas",
+    "correo":"andres70@example.com",
+    "telefono":"3106917679",
+    "activa":true
+  },
+  {
+    "id":"06dcd947-52b8-4607-a6af-9ac53d23d184",
+    "nombre":"Moreno, Álvarez and Vega",
+    "nit":"7440394640",
+    "sector":"Salud",
+    "contacto":"María Delia Cardona Medina",
+    "correo":"egomez@example.com",
+    "telefono":"018008608490",
+    "activa":false
+  },
+  {
+    "id":"21cf4d90-9c7d-46a9-a771-776ff352c101",
+    "nombre":"Villamil-Rojas",
+    "nit":"8413685283",
+    "sector":"Manufactura",
+    "contacto":"Nubia García",
+    "correo":"gonzalorodriguez@example.org",
+    "telefono":"3024462632",
+    "activa":false
+  },
+  {
+    "id":"352d6ee8-4ada-4ec3-9635-f3b69ae36f9a",
+    "nombre":"López-Montenegro",
+    "nit":"4881121031",
+    "sector":"Salud",
+    "contacto":null,
+    "correo":"gquintero@example.net",
+    "telefono":"3281794151",
+    "activa":true
+  },
+  {
+    "id":"57a6f429-e7aa-4435-bac1-cd19555359f1",
+    "nombre":"Díaz-Arévalo",
+    "nit":"8409112252",
+    "sector":"Tecnología",
+    "contacto":"Daniela Lucila Barrera Gómez",
+    "correo":"balzate@example.org",
+    "telefono":"3263239791",
+    "activa":true
+  },
+  {
+    "id":"575904c6-df9e-48f5-b881-9f73c1cf5566",
+    "nombre":"Torres, Navarro and Barreto",
+    "nit":"7876553007",
+    "sector":"Manufactura",
+    "contacto":null,
+    "correo":"marleny05@example.com",
+    "telefono":"3219881",
+    "activa":false
+  },
+  {
+    "id":"1cb8b1e7-0395-405a-9de7-d48cb724425a",
+    "nombre":"Zapata-Orjuela",
+    "nit":"5190534864",
+    "sector":"Salud",
+    "contacto":"Yolima Martínez",
+    "correo":"enrique24@example.com",
+    "telefono":"6028456185",
+    "activa":true
+  },
+  {
+    "id":"2aff30e2-8c27-4d8f-bdc2-60ea44ff0a16",
+    "nombre":"Daza-Parra",
+    "nit":"0452128991",
+    "sector":"Finanzas",
+    "contacto":"Luis Vladimir Solano",
+    "correo":"alexis29@example.org",
+    "telefono":"2304488",
+    "activa":true
+  },
+  {
+    "id":"ae93b0fb-7152-4407-8d5a-a158ed606acc",
+    "nombre":"Caicedo, Escobar And Barrios",
+    "nit":"4841604615",
+    "sector":"Energía",
+    "contacto":"Alfredo Hernández",
+    "correo":"nunezjuan@example.org",
+    "telefono":"3207568142",
+    "activa":false
+  },
+  {
+    "id":"cd93a4b2-afc6-4448-8caa-f888faab01fb",
+    "nombre":"Ballesteros, Lara and Vargas",
+    "nit":"5229107322",
+    "sector":null,
+    "contacto":"Magnolia María Guzmán Castro",
+    "correo":"jacquelinemoreno@example.com",
+    "telefono":"3096384526",
+    "activa":false
+  },
+  {
+    "id":"18b7ad07-c794-41a1-b9d8-9dddaa63e295",
+    "nombre":"Peña, Escobar and Ortiz",
+    "nit":"9164970169",
+    "sector":null,
+    "contacto":"Katherine Johanna Escobar Aguilar",
+    "correo":"paradatatiana@example.net",
+    "telefono":"6045330162",
+    "activa":true
+  },
+  {
+    "id":"e46b931e-69ff-4da4-9c92-ff437784d7be",
+    "nombre":"Córdoba Ltd",
+    "nit":"3106153722",
+    "sector":"Energía",
+    "contacto":"Katerine Cecilia Peña",
+    "correo":"raquel32@example.org",
+    "telefono":"3153377460",
+    "activa":true
+  },
+  {
+    "id":"9c40825a-939e-45ed-88e0-64d95f2c741b",
+    "nombre":"Rodríguez-Restrepo",
+    "nit":"0078436142",
+    "sector":null,
+    "contacto":"Jorge Osorio",
+    "correo":"ortegacristian@example.org",
+    "telefono":"3254373476",
+    "activa":false
+  },
+  {
+    "id":"ee15720e-514b-4e41-a6e6-242a2b8a0c7f",
+    "nombre":"Pérez-Torres",
+    "nit":"2037638821",
+    "sector":null,
+    "contacto":"Humberto Guzmán",
+    "correo":"ortizalexander@example.com",
+    "telefono":"3101913443",
+    "activa":true
+  },
+  {
+    "id":"99553e2c-0133-4480-b660-28fc0c6acf45",
+    "nombre":"Montenegro, Ordóñez and Córdoba",
+    "nit":"8278020586",
+    "sector":"Transporte",
+    "contacto":"José Juan González",
+    "correo":"oscar64@example.net",
+    "telefono":"3093699951",
+    "activa":true
+  },
+  {
+    "id":"3c7d7b7a-db39-4bc5-807f-ee560e951a6a",
+    "nombre":"Ortega-Ramírez",
+    "nit":"3505573857",
+    "sector":null,
+    "contacto":"Fernanda Blanca Barrios López",
+    "correo":"angelagaviria@example.org",
+    "telefono":"3268118723",
+    "activa":false
+  },
+  {
+    "id":"7d2d9994-ed2d-4068-a835-8f87906b0b1b",
+    "nombre":"Rojas, Arias and Gómez",
+    "nit":"0961497315",
+    "sector":"Finanzas",
+    "contacto":"Viviana Luz Vargas Carvajal",
+    "correo":"mariabarrios@example.net",
+    "telefono":"3007365118",
+    "activa":false
+  },
+  {
+    "id":"2e8de477-3a31-40f7-9090-672033b8080d",
+    "nombre":"Torres, Escobar and Rodríguez",
+    "nit":"5578201904",
+    "sector":"Salud",
+    "contacto":"Andrea Ana Daza Ardila",
+    "correo":"pabloramirez@example.com",
+    "telefono":"3207392013",
+    "activa":false
+  },
+  {
+    "id":"3fad4687-9355-4ac3-a51f-fc66f2d3ee3e",
+    "nombre":"Pineda-Cuéllar",
+    "nit":"4621276025",
+    "sector":"Turismo",
+    "contacto":null,
+    "correo":"wgonzalez@example.org",
+    "telefono":"3012616324",
+    "activa":false
+  },
+  {
+    "id":"851cc674-17a2-4c7b-a8a6-0c5e89c357bc",
+    "nombre":"Guzmán, Cortés and Buitrago",
+    "nit":"9957298937",
+    "sector":"Tecnología",
+    "contacto":"Juan Perea Marín",
+    "correo":"beatriz30@example.org",
+    "telefono":"3146871912",
+    "activa":false
+  },
+  {
+    "id":"cd09db2e-6d12-45e8-ab70-f53493712fb5",
+    "nombre":"Torres Ltd",
+    "nit":"8187692082",
+    "sector":"Manufactura",
+    "contacto":"Pilar Paola Martínez Andrade",
+    "correo":"morenoluis@example.com",
+    "telefono":"3281445822",
+    "activa":true
+  },
+  {
+    "id":"d5293d1c-2755-46b2-9b0b-ae2098b12a6e",
+    "nombre":"Osorio and Sons",
+    "nit":"2318297168",
+    "sector":"Salud",
+    "contacto":"Eliana Cecilia Pérez",
+    "correo":"faber50@example.org",
+    "telefono":"2000152",
+    "activa":false
+  },
+  {
+    "id":"d3182315-eff0-410e-bb32-529031a5f40a",
+    "nombre":"Pacheco Group",
+    "nit":"1785090255",
+    "sector":null,
+    "contacto":"Fredy Rosero Mora",
+    "correo":"alfonso42@example.org",
+    "telefono":"018002998747",
+    "activa":true
+  },
+  {
+    "id":"7f248854-ee55-43f6-a034-fde2b4a5c126",
+    "nombre":"Chávez, García And Díaz",
+    "nit":"4890567086",
+    "sector":null,
+    "contacto":"José Francisco Rodríguez Muñoz",
+    "correo":"myriamhenao@example.org",
+    "telefono":"3184826691",
+    "activa":true
+  },
+  {
+    "id":"238c6e1c-9bfb-4140-b6fb-281e9dac8ace",
+    "nombre":"Peña LLC",
+    "nit":"8355054296",
+    "sector":"Tecnología",
+    "contacto":"Yaneth Gómez",
+    "correo":"nmartinez@example.org",
+    "telefono":"3299879509",
+    "activa":false
+  },
+  {
+    "id":"5afd7cd9-a411-4bd1-b8ba-66a56847fed6",
+    "nombre":"Cantillo, Zuluaga and Silva",
+    "nit":"2104016481",
+    "sector":"Finanzas",
+    "contacto":"Carmen Ardila",
+    "correo":"luisortega@example.org",
+    "telefono":"3236381643",
+    "activa":true
+  },
+  {
+    "id":"9cc89800-2594-4fe6-b244-6b8733ce3e3e",
+    "nombre":"Sandoval and Sons",
+    "nit":"6942894642",
+    "sector":null,
+    "contacto":"Paola Guerrero",
+    "correo":"aurabonilla@example.net",
+    "telefono":"3231441706",
+    "activa":true
+  },
+  {
+    "id":"3cbf6c76-0a78-4693-a7d4-408d82cf1c35",
+    "nombre":"Garcés-Barrera",
+    "nit":"2554026355",
+    "sector":"Salud",
+    "contacto":"Milena Olaya Vallejo",
+    "correo":"camachoheidy@example.com",
+    "telefono":"3244898803",
+    "activa":true
+  },
+  {
+    "id":"cc2e53df-8a2d-437a-aa48-157e1f5dcf57",
+    "nombre":"González, Moreno and Benavides",
+    "nit":"8245279050",
+    "sector":null,
+    "contacto":"Santiago Martínez",
+    "correo":"daniela33@example.com",
+    "telefono":"3084951632",
+    "activa":true
+  },
+  {
+    "id":"2d373e80-47aa-489b-b501-cdfbab2279bf",
+    "nombre":"López Ltd",
+    "nit":"9787180933",
+    "sector":"Finanzas",
+    "contacto":"Valentina Diana Rojas",
+    "correo":"ofranco@example.org",
+    "telefono":"3201198756",
+    "activa":false
+  },
+  {
+    "id":"5cb0e35b-d8d0-4b10-94fa-e52d4b6beb13",
+    "nombre":"Restrepo Plc",
+    "nit":"6880023009",
+    "sector":"Educación",
+    "contacto":"Claudia Adriana Caicedo",
+    "correo":"vargasleonor@example.com",
+    "telefono":"3244916093",
+    "activa":true
+  },
+  {
+    "id":"d86aa690-da7f-4835-8c22-a5cd8b01bcab",
+    "nombre":"Morales-Mercado",
+    "nit":"2014911894",
+    "sector":"Manufactura",
+    "contacto":"Alba Martha Medina",
+    "correo":"bherrera@example.net",
+    "telefono":"6093632239",
+    "activa":true
+  },
+  {
+    "id":"255a2fae-c010-4d96-9f4e-045800d29347",
+    "nombre":"Moreno LLC",
+    "nit":"5561140428",
+    "sector":"Educación",
+    "contacto":"Marcos Gómez Morales",
+    "correo":"castanogladys@example.com",
+    "telefono":"3166081126",
+    "activa":false
+  },
+  {
+    "id":"d4322689-f93e-4960-87b0-41429a590488",
+    "nombre":"Rico and Sons",
+    "nit":"0835669106",
+    "sector":"Educación",
+    "contacto":"Nubia García Ballesteros",
+    "correo":"dianadiaz@example.org",
+    "telefono":"3055068826",
+    "activa":true
+  },
+  {
+    "id":"de57a713-654a-4aa1-8792-f1df14dc82cf",
+    "nombre":"González, Pineda And Reyes",
+    "nit":"8293844013",
+    "sector":"Tecnología",
+    "contacto":"Marlon Rodríguez",
+    "correo":"vpatino@example.com",
+    "telefono":"3078826033",
+    "activa":true
+  },
+  {
+    "id":"8544f424-8ee8-4553-9229-120522e3e180",
+    "nombre":"Arias, Vanegas and Martínez",
+    "nit":"5709085991",
+    "sector":"Tecnología",
+    "contacto":"Jorge Díaz",
+    "correo":"foreronora@example.com",
+    "telefono":"3069996996",
+    "activa":false
+  },
+  {
+    "id":"3a372a90-84d1-41fb-b498-9c7d7a68915a",
+    "nombre":"Jiménez, Cortés and Calderón",
+    "nit":"9718428596",
+    "sector":"Finanzas",
+    "contacto":"Patricia Amparo Jiménez Perdomo",
+    "correo":"carlos32@example.org",
+    "telefono":"6091234266",
+    "activa":false
+  },
+  {
+    "id":"5f0a0650-df00-43fb-99ba-b07006b30ad9",
+    "nombre":"Trujillo-Rodríguez",
+    "nit":"8726176072",
+    "sector":"Tecnología",
+    "contacto":"Lucía Jhoana Vanegas Guzmán",
+    "correo":"camilavergara@example.com",
+    "telefono":"3082804056",
+    "activa":true
+  },
+  {
+    "id":"f2b6fa9f-8779-4832-9b5b-0ef7fac9b6bb",
+    "nombre":"González, Sánchez And Vélez",
+    "nit":"9650826958",
+    "sector":"Manufactura",
+    "contacto":null,
+    "correo":"wcordoba@example.com",
+    "telefono":"6034308761",
+    "activa":true
+  },
+  {
+    "id":"5918b5e2-da89-4bca-b23a-89c74c3a24f5",
+    "nombre":"Álvarez, Quintero and Salgado",
+    "nit":"1434682394",
+    "sector":"Educación",
+    "contacto":"John Gómez",
+    "correo":"roaclaudia@example.org",
+    "telefono":"2086966",
+    "activa":false
+  },
+  {
+    "id":"3429dc0e-dd4e-47e0-bca6-30464a34e86f",
+    "nombre":"González Group",
+    "nit":"8311395001",
+    "sector":"Turismo",
+    "contacto":"Cristian Ávila Castro",
+    "correo":"fernando15@example.org",
+    "telefono":"3262839762",
+    "activa":true
+  },
+  {
+    "id":"fd2153d4-dede-468a-ab1f-123042a39521",
+    "nombre":"Ariza and Sons",
+    "nit":"4407779462",
+    "sector":"Salud",
+    "contacto":"Edith Cardona",
+    "correo":"danielcastellanos@example.com",
+    "telefono":"6088925081",
+    "activa":false
+  },
+  {
+    "id":"a7c5dd3d-6d60-49d2-b4a2-a410406c9c31",
+    "nombre":"Salgado-Bejarano",
+    "nit":"9914068841",
+    "sector":null,
+    "contacto":"Diana Lorena López Hernández",
+    "correo":"edith23@example.com",
+    "telefono":"3117817032",
+    "activa":false
+  },
+  {
+    "id":"bc5c6bc1-bdc9-454f-a78e-fc36cad57466",
+    "nombre":"López, Agudelo And Rodríguez",
+    "nit":"1363852778",
+    "sector":"Turismo",
+    "contacto":"Eduardo Juan Cardona",
+    "correo":"viviana90@example.net",
+    "telefono":"3095026480",
+    "activa":true
+  },
+  {
+    "id":"7a4e0604-ef4c-4dc1-977b-5f61d592de85",
+    "nombre":"Mejía Llc",
+    "nit":"0373416781",
+    "sector":null,
+    "contacto":"Maira Mena Sierra",
+    "correo":"albeirogarcia@example.org",
+    "telefono":"5798213",
+    "activa":true
+  },
+  {
+    "id":"8f320289-6cef-4c5c-8c67-28c0cc602434",
+    "nombre":"Granados, Guerrero and Córdoba",
+    "nit":"5797363831",
+    "sector":null,
+    "contacto":"Luisa Orjuela Parra",
+    "correo":"angela70@example.com",
+    "telefono":"018006617706",
+    "activa":true
+  },
+  {
+    "id":"79d8bf27-3b2b-409a-b4a3-86f031b2ab19",
+    "nombre":"Moreno-Parra",
+    "nit":"2050682122",
+    "sector":"Turismo",
+    "contacto":"Eugenia Claudia Pérez Ángel",
+    "correo":null,
+    "telefono":"6032469218",
+    "activa":false
+  },
+  {
+    "id":"86b1940c-6b5e-44c2-aa1f-0cb8056c6fa1",
+    "nombre":"Hernández, Jaramillo and Tamayo",
+    "nit":"9089843699",
+    "sector":null,
+    "contacto":"Stiven Salas",
+    "correo":"carmenprada@example.com",
+    "telefono":"6095938694",
+    "activa":true
+  },
+  {
+    "id":"12fbc68e-5709-49bf-8029-94d50df93e10",
+    "nombre":"Hernández, Nieto and Quintero",
+    "nit":"9881145788",
+    "sector":"Tecnología",
+    "contacto":"Yeferson Germán Gómez Hoyos",
+    "correo":"mosqueragloria@example.net",
+    "telefono":"3176738209",
+    "activa":false
+  },
+  {
+    "id":"8e42fc35-07ca-4fc6-88e4-f43df54be607",
+    "nombre":"Castro-Patiño",
+    "nit":"9177987682",
+    "sector":"Energía",
+    "contacto":"Alfonso Pinzón Sánchez",
+    "correo":"angelicaescobar@example.com",
+    "telefono":"6046858062",
+    "activa":false
+  },
+  {
+    "id":"53e433f2-9b50-40a0-bfbd-c5afb15958c9",
+    "nombre":"Vélez Inc",
+    "nit":"5669579001",
+    "sector":"Salud",
+    "contacto":"Isabel Ríos Patiño",
+    "correo":"hernando44@example.org",
+    "telefono":"3267963259",
+    "activa":false
+  },
+  {
+    "id":"bb2a2650-9a1f-41a8-942e-e6cfcbb53b90",
+    "nombre":"Díaz-Vargas",
+    "nit":"2894633891",
+    "sector":null,
+    "contacto":"Diego Fernando Duque",
+    "correo":"rosa57@example.org",
+    "telefono":"3162926933",
+    "activa":true
+  },
+  {
+    "id":"9c04c54e-5086-43ff-8bb1-9f7be398c650",
+    "nombre":"Contreras-Ocampo",
+    "nit":"5138186550",
+    "sector":"Salud",
+    "contacto":null,
+    "correo":"leonalfonso@example.net",
+    "telefono":"3143034918",
+    "activa":false
+  },
+  {
+    "id":"e3627161-d8f7-4f5b-b86f-2632050d0dc5",
+    "nombre":"García, Roa and Caro",
+    "nit":"9720385934",
+    "sector":null,
+    "contacto":"María Morales",
+    "correo":"ualvarez@example.com",
+    "telefono":"3215531325",
+    "activa":true
+  },
+  {
+    "id":"958589a3-a1ae-457e-922c-a51f5f1bb021",
+    "nombre":"Rivas, Figueroa and Acosta",
+    "nit":"8136750094",
+    "sector":"Salud",
+    "contacto":"Doris Franco González",
+    "correo":"gomezsonia@example.com",
+    "telefono":"3198198780",
+    "activa":true
+  },
+  {
+    "id":"f23d1cfc-fc66-453b-a985-38745b9d5fb1",
+    "nombre":"Ardila, Hernández and Acosta",
+    "nit":"4523888562",
+    "sector":"Manufactura",
+    "contacto":"Nataly Velásquez Barreto",
+    "correo":null,
+    "telefono":"3267874422",
+    "activa":false
+  },
+  {
+    "id":"53f70071-4398-430f-a67b-24099359ab72",
+    "nombre":"Toro-Palacios",
+    "nit":"4859655942",
+    "sector":"Energía",
+    "contacto":"Lucía Ávila González",
+    "correo":"guerrayadira@example.com",
+    "telefono":"6064200024",
+    "activa":false
+  },
+  {
+    "id":"59b3b9cb-5403-4772-95bd-46a79ef8446e",
+    "nombre":"Jaimes, Moreno and Bustos",
+    "nit":"2155130557",
+    "sector":null,
+    "contacto":"Beatriz Barrera",
+    "correo":"lcortes@example.net",
+    "telefono":"6077444889",
+    "activa":false
+  },
+  {
+    "id":"9d073ec9-0e97-4561-97e7-390004361940",
+    "nombre":"Beltrán, Becerra and Sánchez",
+    "nit":"3677462025",
+    "sector":"Salud",
+    "contacto":"Matilde Gutiérrez Quiroga",
+    "correo":"silvaricardo@example.org",
+    "telefono":"018001231239",
+    "activa":true
+  },
+  {
+    "id":"dbdc5456-2ddb-48a2-bbd7-765dc9f79bdf",
+    "nombre":"Cuéllar Ltd",
+    "nit":"0491060183",
+    "sector":"Turismo",
+    "contacto":"Fernando Pérez Becerra",
+    "correo":null,
+    "telefono":"3268172257",
+    "activa":true
+  }
+]
